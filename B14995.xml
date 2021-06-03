@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Furies· With vertues encomium. Or The image of honour. In two bookes of epigrammes, satyricall and encomiasticke. By R.N.</title>
+            <author>Niccols, Richard, 1584-1616.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14995</idno><idno type="EEBO-CITATION">99845764</idno>
+  <idno type="VID">177743</idno>
+  <idno type="EEBO-PROQUEST">2248525630</idno>
+  <idno type="STC">STC 18521</idno>
+  <idno type="STC">ESTC S110159</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845764e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177743)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1179:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Furies· With vertues encomium. Or The image of honour. In two bookes of epigrammes, satyricall and encomiasticke. By R.N.</title>
+                  <author>Niccols, Richard, 1584-1616.</author>
+               </titleStmt>
+               <extent>[80] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.N. = Richard Niccols.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-E.</note>
+                  <note>"Vertues encomium" has separate dated title page; register is continuous.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Epigrams, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177743:1"/>
+            <pb facs="tcp:177743:2"/>
+            <pb facs="tcp:177743:2"/>
+            <pb facs="tcp:177743:3"/>
+            <pb facs="tcp:177743:3"/>
+            <pb facs="tcp:177743:4"/>
+            <pb facs="tcp:177743:4"/>
+            <p>THE FVRIES. WITH VERTVES ENCOMIVM.</p>
+            <p>OR, <hi>The Jmage of Honour.</hi>
+            </p>
+            <p>In two Bookes of Epigrammes, Satyricall and Encomiasticke.</p>
+            <p>By <hi>R. N.</hi>
+            </p>
+            <p>
+               <hi>Virtus est, vitium fugere.</hi>
+            </p>
+            <figure>
+               <head>THOV SHALT LABOR FOR</head>
+               <figDesc>seal</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>William Stansby.</hi> 1614.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177743:5"/>
+            <pb facs="tcp:177743:5"/>
+            <head>TO THE RIGHT Worshipfull and generous dis<g ref="char:EOLhyphen"/>posed (follower of vertue and fauourer of learning) Sir TIMOTHIE THORNHIL <hi>Knight.</hi>
+            </head>
+            <lg>
+               <l>MY Muse infor'st by Fortunes first extreame,</l>
+               <l>To leaue the Eden of my soules desire,</l>
+               <l>Which <hi>Isis</hi> waters with her siluer streame,</l>
+            </lg>
+            <lg>
+               <l>Vnto my natiue Thames did backe retire;</l>
+               <l>Where maz'd to see so many various shapes,</l>
+               <l>Of wanton vice, the Furies she doth raise</l>
+               <l>With snakie whips to scourge such idle Apes,</l>
+            </lg>
+            <lg>
+               <l>But least she proue to weake in these essayes</l>
+               <l>(Faire Plant of hope) some branch of safetie yeild,</l>
+               <l>Vpon the which my forlor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Muse may lite,</l>
+               <l>And if for vertues s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke you deigne to sheild,</l>
+               <l>Her poore endeuours 'gainst the powr'e of spight;</l>
+            </lg>
+            <lg>
+               <l>More pleasing numbers, she too light shall bring,</l>
+               <l>Though hoarse with griefe, she now can hardly sing.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Your VVorships</hi> humbly deuoted <hi>R. N.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177743:6"/>
+            <pb facs="tcp:177743:6"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any idle humorists, whose singularity allowes nothing good, that is common, in this frantik age, esteeme of verses vpon which the vul<g ref="char:EOLhyphen"/>gar in a Stationers Shop, hath once breathed as of a peece of infection, in whose fine fin<g ref="char:EOLhyphen"/>gers no papers are holesome, but such, as passe by priuate manuscription; Others because to many im<g ref="char:EOLhyphen"/>pudent Poetasters, that can scarce read a Verse, doe daily pester the Printers Presse with their paltries, will with<g ref="char:EOLhyphen"/>out trial, eyther for dislike of the title, distast of the Au<g ref="char:EOLhyphen"/>thors name, or some such idle scruple, censure anie mans endeuours with: <hi>Qui nescit, versus tamen audet fin<g ref="char:EOLhyphen"/>gere;</hi> For the first of these, I leaue them to the curious con<g ref="char:EOLhyphen"/>ceits of the close Cabinet: the last I would haue to know, that <hi>Hic nihil inuitâ dicam, faciamue Mineruâ.</hi> To him, who out of a seeming seueritie, distastes all thinges, that sauour not of grauite, and sayes Epigrammes are toyes vnworthie ey<g ref="char:EOLhyphen"/>ther his expence of time or suspence of opinion. I answer, <hi>&amp; in ipso ioco, aliquid probi ingenij lumen eluceat;</hi> Yet I confesse, these to bee Epigrams and but slight; in placing of which, for that I obserue no method or order, if his austeritie, out of ignorance, doe cauill with me, I referre him to the Prince of all writers in this kind <hi>Val. Martialis.</hi> I desire the imparti<g ref="char:EOLhyphen"/>al Reader, to know, that for the follies of such and the like, I
+<pb facs="tcp:177743:7"/> heere inuocate the Furies, who in the first part of this Pam<g ref="char:EOLhyphen"/>phlet, alternatly succeed in the scourg of vanitie; to the last part I referre you in his proper place, wishing all vertu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Gen<g ref="char:EOLhyphen"/>tlewomen, eyther to passe ouer my Furies, as impertinent to their sex or mildly to ce<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sure, or at le<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st not misco<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>strue my in<g ref="char:EOLhyphen"/>tent: if question be made, why I make three parts of the first part, and but one of the last; <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecause the best of vs hath three partes of vice, for one of v<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtue, bre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fly I craue▪ but that the simplicitie of my intent may be free from the malignitie of interpretation, in all other thinges I submit my selfe to censure.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:177743:7"/>
+                  <head>THE FVRIES.</head>
+                  <div n="1" type="epigram">
+                     <head>
+                        <hi>EPIG. I.</hi> In Authoris intentionem.</head>
+                     <l>NO man be captious, my aduice preuent him,</l>
+                     <l>Who first excepts, my Furies, will torment him;</l>
+                     <l>Yet they from guilt of priuate grudge are free,</l>
+                     <l>No man; but vice in man is taxt by me;</l>
+                     <l>None of my lines, detraction doth compose,</l>
+                     <l>To make men laugh, I play with no mans nose:</l>
+                     <l>Nor doe I scandal any great mans name,</l>
+                     <l>So to lose libertie for idle fame.</l>
+                     <l>Breife, not obscure, plaine: yet obscoene I write not,</l>
+                     <l>Pleasant, not wanton, sharpe and yet I bite not.</l>
+                  </div>
+                  <div n="2" type="epigram">
+                     <head>
+                        <hi>EPIG. II.</hi> Ad Poetarum nomine dignos.</head>
+                     <l>VVIts rarest wonders, men of most import,</l>
+                     <l>Of all the skilful Clearkes in Natures Court)</l>
+                     <pb facs="tcp:177743:8"/>
+                     <l>Let <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> I show them,</l>
+                     <l>That <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> may the better know them,</l>
+                     <l>The straine, which my Satyrique Muse doth sing,</l>
+                     <l>Fits not the pinion of an Eagles wing;</l>
+                     <l>Excuse me then, if that these lines be loose,</l>
+                     <l>The pen was but the pinion of a Goose.</l>
+                  </div>
+                  <div n="3" type="epigram">
+                     <head>
+                        <hi>EPIG. III.</hi> Ad Lectorem mas.</head>
+                     <l>REader) the Furies, if thou faultlesse bee,</l>
+                     <l>Bid thee not vntrust, they wip not thee;</l>
+                     <l>If thou be faultie, let it not offend thee,</l>
+                     <l>Heere to vntrusse; this whipping may amend thee.</l>
+                  </div>
+                  <div n="4" type="epigram">
+                     <head>
+                        <hi>EPIG. IIII.</hi> Ad Lectorem foem.</head>
+                     <l>THe Furies, by your fingers daintie touch,</l>
+                     <l>Doe know your gentle sex, and maruell much</l>
+                     <l>You'le come in danger of their ierking rimes,</l>
+                     <l>Perhaps they thought to passe your pettie crimes,</l>
+                     <l>In hope your faire would bring forth no foule deed;</l>
+                     <l>Yet in faire fruit, since wormes doe soonest breed,</l>
+                     <l>They bid that you your selues with patience arme,</l>
+                     <l>A little whipping will doe you no harme.</l>
+                  </div>
+                  <div n="5" type="epigram">
+                     <pb facs="tcp:177743:8"/>
+                     <head>
+                        <hi>EPIG. V.</hi> Ad Librum.</head>
+                     <l>LEt not his dreadfull censure feareful make thee,</l>
+                     <l>Who scarse can read; yet in his hand will take thee,</l>
+                     <l>And with an humerous humh, a nod, a no,</l>
+                     <l>Will say this slight, this scuruie, this so so.</l>
+                     <l>Nor his, who reading thee with eye-browes knit,</l>
+                     <l>Contracting to his brain the whole worlds wit,</l>
+                     <l>As out of deeper iudgment thee disdaining,</l>
+                     <l>Will cast thee downe, and leaue thee thus complaining,</l>
+                     <l>Tush't hath no pith, tis harsh and yet to plaine,</l>
+                     <l>I loath these lines, that sauour not of braine;</l>
+                     <l>Feare neyther these, nor partially spare those,</l>
+                     <l>Whom to the Furies whips thou canst expose,</l>
+                     <l>What can they doe; thou doing my desire?</l>
+                     <l>They can but cast my rod into the fire.</l>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:177743:9"/>
+                  <head>Alecto.</head>
+                  <pb facs="tcp:177743:9"/>
+                  <div type="part">
+                     <head>THE FVRIES.</head>
+                     <div n="6" type="epigram">
+                        <head>
+                           <hi>EPIG. VI.</hi> Ad Alecto.</head>
+                        <l>COme sad Alecto leaue thy dismall cell,</l>
+                        <l>And bring thy s<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ake-heard sisters vp from hell,</l>
+                        <l>First take thy turne, doubt not the want of worke,</l>
+                        <l>I will present thee thousand sinnes to ierke;</l>
+                        <l>But be no partiall Furie, doe not spare</l>
+                        <l>This man for wealth, that woman for her fare,</l>
+                        <l>This gull for cheere, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t foole for his fine cloathes;</l>
+                        <l>This for his lookes, that other for his oathes;</l>
+                        <l>Ierke generall sinne, that it may heere be seene,</l>
+                        <l>Alecto scourges none for priuate spleene.</l>
+                     </div>
+                     <div n="7" type="epigram">
+                        <head>
+                           <hi>EPIG. VII.</hi> In Syrenem.</head>
+                        <l>T'Is strange to see a Mermaide, you will say,</l>
+                        <l>Yet not so strange, as that I saw to day,</l>
+                        <l>One part of that which 'boue the waters rise.</l>
+                        <l>Is woman, th' other fish, or fishers lies.</l>
+                        <l>One part of this was man or I mistooke,</l>
+                        <pb facs="tcp:177743:10"/>
+                        <l>The other woman, for I pray (sirs) looke,</l>
+                        <l>The head is mans, I iudge by hat and haire,</l>
+                        <l>And by the band and doublet it doth weare,</l>
+                        <l>The bodie should be mans, what doth it need?</l>
+                        <l>Had it a codpeice, 'twere a man indeed.</l>
+                     </div>
+                     <div n="8" type="epigram">
+                        <head>
+                           <hi>EPIG. VIII.</hi> In Caluionem.</head>
+                        <l>SIr <hi>Calui<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>es</hi> haire did shed not long agoe,</l>
+                        <l>And on his head grew thin; but will you know,</l>
+                        <l>How 'tis of late so thicke and comely growne,</l>
+                        <l>Why, he but mockes the world, 'tis not his owne,</l>
+                        <l>To women he gaue his, then is it strange,</l>
+                        <l>If he weare theirs? no, 'tis an honest change.</l>
+                     </div>
+                     <div n="9" type="epigram">
+                        <head>
+                           <hi>EPIG. IX.</hi> In pecuniae penuriam.</head>
+                        <l>MOne I for monie, is the common crie;</l>
+                        <l>Yet yong and old men both can tell you why,</l>
+                        <l>When man is yong, he spends vpon his pleasures,</l>
+                        <l>When man is old, he hoords vp golden treasures,</l>
+                        <l>Out of the yong mans schoole of Venerie</l>
+                        <l>The old man learnes his art of Vsurie;</l>
+                        <pb facs="tcp:177743:10"/>
+                        <l>Then in each age, since monie first was knowne;</l>
+                        <l>This is the cause that men for monie mone,</l>
+                        <l>Yong men doe spend all; therefore yong men want,</l>
+                        <l>Old men doe hoord all: therefore monies scant.</l>
+                     </div>
+                     <div n="10" type="epigram">
+                        <head>
+                           <hi>EPIG. X.</hi> In Fabium.</head>
+                        <l>BEhold the little great man, <hi>Fabius</hi> comes,</l>
+                        <l>Litle in wit and great in wealthie summes;</l>
+                        <l>But why doth wealthie <hi>Fabius</hi> walke alone,</l>
+                        <l>When many men for seruice make such mone,</l>
+                        <l>That the west gate of Paules great Ile (poore hearts)</l>
+                        <l>In paper daily speakes their better parts?</l>
+                        <l>T'is said, his legges that garter-loaded reeles,</l>
+                        <l>And very shooe-ties fright men from his heeles,</l>
+                        <l>This then the cause Paules gate for seruice begs,</l>
+                        <l>
+                           <hi>Fabius</hi> weares seruingmen vpon his legs.</l>
+                     </div>
+                     <div n="11" type="epigram">
+                        <head>
+                           <hi>EPIG. XI.</hi> In artem, fortunam, &amp; ignorantiam.</head>
+                        <l>VVHen Fortune fel on sleep, &amp; hate did blind her,</l>
+                        <l>Art Fortune lost, and ignorance did find her,</l>
+                        <l>Since when dull ignorance with Fortunes store,</l>
+                        <l>Hath bin enricht, and Art hath still bin pore.</l>
+                     </div>
+                     <div n="12" type="epigram">
+                        <pb facs="tcp:177743:11"/>
+                        <head>
+                           <hi>EPIG. XII.</hi> In Vertumnum.</head>
+                        <l>STay (my <hi>Vertumnus</hi>) whether dost thou goe,</l>
+                        <l>To thy chast Mistris, whose true heart doth know.</l>
+                        <l>No loue but thine? O foole to thinke that shee</l>
+                        <l>Will keep from others; what she giues to thee,</l>
+                        <l>Here could I tel thee of her strange desire,</l>
+                        <l>Hee trickes to set the coldest hearts on fire,</l>
+                        <l>But least by laying open such foule crimes,</l>
+                        <l>I rather seeme to teach, then ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cke the times.</l>
+                        <l>Know this, the best, that is, or 'ere hath beene</l>
+                        <l>Of common women is no better then</l>
+                        <l>Such common things, at which (pho stop thy nose</l>
+                        <l>Each french-sicke stalion may put downe his—</l>
+                     </div>
+                     <div n="13" type="epigram">
+                        <head>
+                           <hi>EPIG. XIII.</hi> In Romam.</head>
+                        <l>HAte &amp; debate, <hi>Rome</hi> through the world hath spred,</l>
+                        <l>Yet <hi>Roma Amor</hi> is, if backward read;</l>
+                        <l>Then 'ist not strange <hi>Rome</hi> hate should foster? no,</l>
+                        <l>For out of back-ward loue, all hate doth grow.</l>
+                     </div>
+                     <div n="14" type="epigram">
+                        <pb facs="tcp:177743:11"/>
+                        <head>
+                           <hi>EPIG. XIIII.</hi> In Curionem.</head>
+                        <l>TIs said, when <hi>Rusus</hi> Englands King did raigne,</l>
+                        <l>When vnto him a seruant of his tr<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e</l>
+                        <l>A paire of stockings of a mark d<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d brin<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </l>
+                        <l>That then he said, why these are for a King;</l>
+                        <l>But liu'd he now, to see sir <hi>Curio</hi> hold</l>
+                        <l>Both wol'en, iersie, si<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ke, all slite but gold;</l>
+                        <l>What then' I thinke, his crowne, if he were here</l>
+                        <l>Should stil be gold, his stockings woollen were;</l>
+                        <l>Why then are <hi>Curioes</hi> legs with gold ore spread?</l>
+                        <l>I thinke, because, he hath a woollen head.</l>
+                     </div>
+                     <div n="15" type="epigram">
+                        <head>
+                           <hi>EPIG. XV.</hi> In Ebrionem.</head>
+                        <l>SEE where <hi>Don Ebrio</hi> like a Dutchman goes,</l>
+                        <l>Yet drunk with English Ale, one would suppose,</l>
+                        <l>That he would shoulder downe each dore and wal;</l>
+                        <l>But they must stand, or he (poore foole) must fal,</l>
+                        <l>Well home at length he comes and on his bed,</l>
+                        <l>He layes him downe to rest his drink-drownd-head.</l>
+                        <l>But in the morne, the drunken feuor past,</l>
+                        <l>Waking he feeles his pocket all in hast,</l>
+                        <l>And finding there no pennie of that store</l>
+                        <l>Which in his purse, he had, the night before,</l>
+                        <pb facs="tcp:177743:12"/>
+                        <l>Vnto himselfe then soberly alone,</l>
+                        <l>He softly sighes, and saies his moni's gone.</l>
+                     </div>
+                     <div n="16" type="epigram">
+                        <head>
+                           <hi>EPIG. XVI.</hi> In Amorem.</head>
+                        <l>LOue hath two diuers winges, as louers say;</l>
+                        <l>Thou following him, with one, he flies away,</l>
+                        <l>With th'other, if thou flie, he followes thee;</l>
+                        <l>Therefore the last, loue only vse for me.</l>
+                     </div>
+                     <div n="17" type="epigram">
+                        <head>
+                           <hi>EPIG. XVII.</hi> In Odoriferum.</head>
+                        <l>GReat <hi>Alexanders</hi> bodie, which is strange,</l>
+                        <l>Perfum'd his cloathes, as oft, as he did change:</l>
+                        <l>But <hi>Odorifero</hi> sayes, that's nothing rare,</l>
+                        <l>In euery place he comes, into the ayre</l>
+                        <l>His body all about sweet odors throwes,</l>
+                        <l>Nay more, he sweates pure Ciuet as he goes,</l>
+                        <l>Yet you shal find, vncase him to the skin,</l>
+                        <l>Though he smel sweet without he—.</l>
+                     </div>
+                     <div n="18" type="epigram">
+                        <pb facs="tcp:177743:12"/>
+                        <head>
+                           <hi>EPIG. XVIII.</hi> In Critticum.</head>
+                        <l>SOme <hi>Crittick</hi> in a spleene, himselfe farre prouder</l>
+                        <l>Will aske, why Gentlewomen with sweet pouder</l>
+                        <l>Sprinkle their haire; but pray, let me alone,</l>
+                        <l>Ile answere him, this haire not being their owne,</l>
+                        <l>But combings bought, might peraduenture be</l>
+                        <l>Of some vnholesome head, thus then you see,</l>
+                        <l>Why women vse this odoriferous dust;</l>
+                        <l>Let <hi>Critticks</hi> then be dumbe, their cause is iust.</l>
+                     </div>
+                     <div n="19" type="epigram">
+                        <head>
+                           <hi>EPIG. XIX.</hi> In Procos.</head>
+                        <l>VVHo woes a wife, thinks wedded men do know</l>
+                        <l>The only true content, I thinke not so,</l>
+                        <l>If woe in woers be that women court,</l>
+                        <l>As the word woe, in woers doth import</l>
+                        <l>And woe in women too, that courted bee,</l>
+                        <l>As the word woe, in women we doe see,</l>
+                        <l>I thinke 'tis better lead a single life;</l>
+                        <l>Then with this double woe, to woe a wife.</l>
+                     </div>
+                     <div n="20" type="epigram">
+                        <pb facs="tcp:177743:13"/>
+                        <head>EPIG. XX.</head>
+                        <l>A Poore neglected Scholler, whose chiefe good</l>
+                        <l>Was all he bore about him, vnderstood</l>
+                        <l>A friend of his, to be in such a place,</l>
+                        <l>To whom he went, who gaue him kind imbrace,</l>
+                        <l>And spake his worth, intreating all his friends</l>
+                        <l>To doe the like, to which all condiscends,</l>
+                        <l>Except one cald <hi>All out sides,</hi> who wil passe</l>
+                        <l>The streets with none, but some silke-grogten Asse,</l>
+                        <l>And he in anger, after many oathes,</l>
+                        <l>(For he could sweare) bad him get better cloathes</l>
+                        <l>Then come to them againe, adding this scoffe,</l>
+                        <l>The schollers stuffe is like, stand farther off,</l>
+                        <l>Thus ignorant <hi>All out sides</hi> thinkes of arts,</l>
+                        <l>The Taylor now giues man his better parts.</l>
+                     </div>
+                     <div n="21" type="epigram">
+                        <head>
+                           <hi>EPIG. XXI.</hi> In Lenam.</head>
+                        <l>
+                           <hi>LEna</hi> being yong could neuer haue her fill</l>
+                        <l>Of loues sweet sower: now old, she loues it still;</l>
+                        <l>And therefore yong, of yong men she tooke gold,</l>
+                        <l>That she might giue to yong men, being old.</l>
+                     </div>
+                     <div n="22" type="epigram">
+                        <pb facs="tcp:177743:13"/>
+                        <head>
+                           <hi>EPIG. XXII.</hi> In Fuscum.</head>
+                        <l>
+                           <hi>FVscus</hi> is turn'd a Player; for in rage,</l>
+                        <l>He lately left his function for the stage;</l>
+                        <l>In hope to out-act <hi>Roscius</hi> in a Sceane,</l>
+                        <l>In care of which, the fellowe's growne so leane,</l>
+                        <l>That all men pitie him; but <hi>Fuscus</hi> know,</l>
+                        <l>Players doe now as plentifully grow,</l>
+                        <l>As spawne of Frogs in March; yet euermore</l>
+                        <l>The great deuoure the lesse; be wise therefore,</l>
+                        <l>Procure thou some commendatorie letter</l>
+                        <l>For the Burthmothos, 'tis a course farre better.</l>
+                     </div>
+                     <div n="23" type="epigram">
+                        <head>EPIG. XXIII.</head>
+                        <l>WOmen thinke women, far more constant bee,</l>
+                        <l>Then we men, and the letter O we see</l>
+                        <l>In women, not in we men, as they say,</l>
+                        <l>Figures earthes constant orbe, we men say, nay,</l>
+                        <l>It meanes the Moon, which proues, none think it strange</l>
+                        <l>Women are constant and most true in —.</l>
+                     </div>
+                     <div n="24" type="epigram">
+                        <head>EPIG. XXIIII.</head>
+                        <l>TWise twentie dayes of lamentable lent,</l>
+                        <l>Why goes <hi>All Colours</hi> like a mal-content.</l>
+                        <pb facs="tcp:177743:14"/>
+                        <l>Clad all in black, some thinke thereby to show,</l>
+                        <l>His sorrow for his sins, tush, 'tis not so,</l>
+                        <l>Flesh then forbidden, his all sable back,</l>
+                        <l>Mournes for his belly fortie dayes in black.</l>
+                     </div>
+                     <div n="25" type="epigram">
+                        <head>
+                           <hi>EPIG. XXV.</hi> In Malbellam.</head>
+                        <l>MIstris <hi>Malbella</hi> beares away the bell,</l>
+                        <l>And doth more holland, Lawne and cambrick sell,</l>
+                        <l>Then all her neighbours, not because her stall</l>
+                        <l>Shewes better ware, or boyes doe lowder call,</l>
+                        <l>What lack yee Gentlemen? but for her faire</l>
+                        <l>Is farre prefer'd before their better ware;</l>
+                        <l>For no spur-gingle gentle <hi>Paphian</hi> Knight,</l>
+                        <l>Walkes by her sent-sweet shop for his delight,</l>
+                        <l>Will passe, if shee be obiect of his eye,</l>
+                        <l>She absent, boyes may say, what will you buy?</l>
+                        <l>What lack you? but in vaine, monie appeares not,</l>
+                        <l>Gallants are deafe, custome goes by and heares not,</l>
+                        <l>No ware's there vendible, or worth a rush,</l>
+                        <l>Except <hi>Malbella</hi> be the Iuie bush.</l>
+                     </div>
+                     <div n="26" type="epigram">
+                        <head>
+                           <hi>EPIG. XXVI.</hi> In Drusum &amp; Furionem.</head>
+                        <l>
+                           <hi>FVrio</hi> would fight with <hi>Drusus</hi> in the field,</l>
+                        <l>Because the straw stout <hi>Drusus</hi> will not yeeld,</l>
+                        <pb facs="tcp:177743:14"/>
+                        <l>On which their Mistris trod, they both did meet,</l>
+                        <l>
+                           <hi>Drusus</hi> in fight fell dead at <hi>Furioes</hi> feet;</l>
+                        <l>One had the straw, but with it this Greeke letter, ח</l>
+                        <l>The other lost it, pray, who had the better?</l>
+                     </div>
+                     <div n="27" type="epigram">
+                        <head>
+                           <hi>EPIG. XXVII.</hi> In Battum.</head>
+                        <l>
+                           <hi>BAttus</hi> chiefe Mimmicke of the times quaint Apes,</l>
+                        <l>Who shifts not shirts, more oft, then he doth shapes,</l>
+                        <l>Frequents great states and vainly doth surmise,</l>
+                        <l>That mongst faire Ladies, hee's reputed wise,</l>
+                        <l>But as the caske, hath euer noted bin</l>
+                        <l>To sound most, hauing only ayre within,</l>
+                        <l>So thou art knowne, although thou seemest gay,</l>
+                        <l>Deckt with an others plumes; but painted iay,</l>
+                        <l>If they were pluckt away, thou would'st haue none,</l>
+                        <l>And my <hi>sic vos non vobis</hi> would be knowne.</l>
+                     </div>
+                     <div n="28" type="epigram">
+                        <head>
+                           <hi>EPIG. XXVIII.</hi> In Priscum.</head>
+                        <l>MOngst the <hi>Monopolists</hi> on <hi>Londons</hi> Bursse,</l>
+                        <l>
+                           <hi>Priscus</hi> was ta'ne for cutting of a pursse,</l>
+                        <l>And being reuild', made this bold question, why,</l>
+                        <l>Are these <hi>Monopolists</hi> excus'd, since I</l>
+                        <l>Did cut but one mans purse, why they cut all?</l>
+                        <l>But thus we see, the weakest goes to'th wall?</l>
+                     </div>
+                     <div n="29" type="epigram">
+                        <pb facs="tcp:177743:15"/>
+                        <head>
+                           <hi>EPIG. XXIX.</hi> In Curuum detractatorem.</head>
+                        <l>
+                           <hi>CƲruus</hi> thou saist, that I doe our-like looke,</l>
+                        <l>That fawnes on men, when I doe giue a booke,</l>
+                        <l>But <hi>Curuus</hi> asse-like thou, hast not the wit</l>
+                        <l>To vnderstand, much lesse to censure it,</l>
+                        <l>Else thou woul'st know, each booke I giue's a bone</l>
+                        <l>For such curst cutres, as thee to gnaw vpon,</l>
+                     </div>
+                     <div n="30" type="epigram">
+                        <head>
+                           <hi>EPIG. XXX.</hi> To the same right worshipfull Sir <hi>Timo<g ref="char:EOLhyphen"/>thie Thornhill.</hi>
+                        </head>
+                        <l>MY Muse cast off, at good hap first did flie,</l>
+                        <l>On wings of Hope, good hap did soare to high;</l>
+                        <l>But when my Muse too feeble was of wing</l>
+                        <l>I thought to whistle her off; but late did spring</l>
+                        <l>A meaner chance, at that I made my game;</l>
+                        <l>But whether at the fource she tooke the same,</l>
+                        <l>Or in the ramage no performance made,</l>
+                        <l>I know not well, good hope still giues her aide,</l>
+                        <l>Yet stil I doubt, but, gentle Sir, reade on,</l>
+                        <l>This cannot be discust, while you haue done.</l>
+                     </div>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:15"/>
+                  <head>Tisiphone.</head>
+                  <pb facs="tcp:177743:16"/>
+                  <div type="dedication">
+                     <head>TO THE LEARNED AND vertuous Gentleman my Worshipfull <hi>good friend Master</hi> Chri<g ref="char:EOLhyphen"/>stopher Osborne.</head>
+                     <lg>
+                        <l>THe scourge of Carthage and <hi>Augustus</hi> were</l>
+                        <l>Two pillers of great Rome and taught her how</l>
+                        <l>To make the World beneath her Empire bow;</l>
+                        <l>Yet they sometimes would state affaires forbeare</l>
+                     </lg>
+                     <lg>
+                        <l>Their <hi>Enius</hi> and their <hi>Maroes</hi> Musae to heare,</l>
+                        <l>Whose tunefull verse did smooth cares ruged brow;</l>
+                        <l>Which custome since those Worthies did alow.</l>
+                        <l>Be pleased (Sir) to lend a gentle eare</l>
+                     </lg>
+                     <lg>
+                        <l>Vnto my Muse, and cease some little space</l>
+                        <l>From serious studies worthie pretious time,</l>
+                        <l>To grauest readers verse is no disgrace,</l>
+                     </lg>
+                     <lg>
+                        <l>Good wits reape good by reading idle rime,</l>
+                        <l>But smile on these with gentle entertaine,</l>
+                        <l>And they perhaps will cause you smile againe.</l>
+                     </lg>
+                  </div>
+                  <div type="part">
+                     <head>THE FVRIES.</head>
+                     <div n="1" type="epigram">
+                        <pb facs="tcp:177743:16"/>
+                        <head>
+                           <hi>EPIG. I.</hi> Ad Lectorem.</head>
+                        <l>IF that you please read on; yet reade not one,</l>
+                        <l>Nor two, nor three, but all, else pray read none.</l>
+                     </div>
+                     <div n="2" type="epigram">
+                        <head>
+                           <hi>EPIG. II.</hi> Ad Tisiphonem.</head>
+                        <l>NIghts second birth by th' <hi>Acherontike</hi> Lake,</l>
+                        <l>Who from the scourge of sin thy name dost take,</l>
+                        <l>Vp, for thou hast not on <hi>Cocytus</hi> strand,</l>
+                        <l>More cause to shake thy euer burning brand</l>
+                        <l>Against the gyant brood of sin, then here,</l>
+                        <l>Obserue them well, Ile cause them to appeare;</l>
+                        <l>But scourge them so that this report may passe,</l>
+                        <l>
+                           <hi>Tisiphone</hi> no partiall Furie was.</l>
+                     </div>
+                     <div n="3" type="epigram">
+                        <pb facs="tcp:177743:17"/>
+                        <head>EPIG. III.</head>
+                        <l>VVHat haue we heere? a Citie-Dame? sure no,</l>
+                        <l>'Tis <hi>loues</hi> own <hi>Iris,</hi> or she should be so.</l>
+                        <l>How daintily the Raine-bow round dispread</l>
+                        <l>Vnder her light-Scotch hat becomes her her head,</l>
+                        <l>It is a signe the weather will be faire,</l>
+                        <l>To the new walkes, she is gone to take the Aire:</l>
+                        <l>But at that little gate how gets she out,</l>
+                        <l>Her head with such a compasse archt about?</l>
+                        <l>With much adoe; therefore these dames desire</l>
+                        <l>Great <hi>London</hi> wil build little Moregate higher.</l>
+                     </div>
+                     <div n="4" type="epigram">
+                        <head>EPIG. IIII.</head>
+                        <l>STand by my Masters, wil yee be o're runne?</l>
+                        <l>See yonder comes the Chariot of the Sunne,</l>
+                        <l>How the fierce Horses! soame the coach-wheeles mount!</l>
+                        <l>He driues like <hi>Phaeton:</hi> 'tis some great Count,</l>
+                        <l>Tush, quoth another, you mistake, inquire;</l>
+                        <l>And you shal find your Count some pippen-squire:</l>
+                        <l>His liuing is but small; yet must he haue.</l>
+                        <l>His horse and coach, and he himselfe go braue.</l>
+                        <l>But what maintaines it? misse you not his men?</l>
+                        <l>See you his Liueries? where are they then?</l>
+                        <l>In his horse mouthes, the men are all confin'd:</l>
+                        <l>And with their Liueties his coach is lin'd.</l>
+                     </div>
+                     <div n="5" type="epigram">
+                        <pb facs="tcp:177743:17"/>
+                        <head>
+                           <hi>EPIG. V.</hi> In Durum.</head>
+                        <l>A Friend of <hi>Durus</hi> comming on a day</l>
+                        <l>To visite him, finding the doores say nay</l>
+                        <l>Being lockt fast vp, first knockt and then did pause,</l>
+                        <l>As Lord haue mercie on's had beene the cause;</l>
+                        <l>But missing it, he askt a neighbour by,</l>
+                        <l>When the rich <hi>Durus</hi> dores were lockt and why?</l>
+                        <l>He said it was a custome growne of late,</l>
+                        <l>At dinner time to locke your great mans gate.</l>
+                        <l>
+                           <hi>Durus</hi> poore friend admir'd, and thought the doore</l>
+                        <l>Was not for state lockt vp; but 'gainst the poore:</l>
+                        <l>And thence departing emptie of good cheere</l>
+                        <l>Said, Lord haue mercie on vs is not heere.</l>
+                     </div>
+                     <div n="6" type="epigram">
+                        <head>
+                           <hi>EPIG. VI.</hi> In Aquilam Romanam.</head>
+                        <l>THat Eagles yet sau'd <hi>Rome</hi> 'twas neuer knowne:</l>
+                        <l>Then in <hi>Romes</hi> Ensigne, why is th' Eagle showne?</l>
+                        <l>Yet <hi>Rome</hi> by Geese, once free from thrall was set:</l>
+                        <l>Then why doth thanklesse <hi>Rome</hi> the goose forget?</l>
+                     </div>
+                     <div n="7" type="epigram">
+                        <pb facs="tcp:177743:18"/>
+                        <head>
+                           <hi>EPIG. VII.</hi> In Gurmundum.</head>
+                        <l>THe fat <hi>Gurmundo,</hi> great Idolater,</l>
+                        <l>His belley 'fore his God doth far prefer,</l>
+                        <l>His deare lou'd Idol is his stomack, that</l>
+                        <l>In priuate eates vp so much flesh and fat,</l>
+                        <l>And his oblation common at that shrine</l>
+                        <l>Is a fat Capon and a cup of wine,</l>
+                        <l>Boyes laugh to see him wallow in the street</l>
+                        <l>His Capon-fatted panch ouer his feet</l>
+                        <l>Hanges Cisterne like, and as 'tis said he sweares,</l>
+                        <l>He hath not seene the cocke this many yeares;</l>
+                        <l>Then haplesse thou that are <hi>Gurmundoes</hi> hen,</l>
+                        <l>And all that suffer vnder such fat men.</l>
+                     </div>
+                     <div n="8" type="epigram">
+                        <head>
+                           <hi>EPIG. VIII.</hi> In Liuiam.</head>
+                        <l>NOw lite-heel'd <hi>Liuia,</hi> whether trip it you,</l>
+                        <l>Vnto the shop againe! pray, tel me true?</l>
+                        <l>Will not that gallant sit from whom you came,</l>
+                        <l>Buy that set ruffe this morne, sent by your dame?</l>
+                        <l>He will not, well, although he doth not care</l>
+                        <l>For your dames Laundrie; yet he loues your ware.</l>
+                     </div>
+                     <div n="9" type="epigram">
+                        <pb facs="tcp:177743:18"/>
+                        <head>
+                           <hi>EPIG. IX.</hi> In Basiliscum.</head>
+                        <l>
+                           <hi>SƲburbian Basiliscus</hi> in his lookes</l>
+                        <l>Beares signes of death, his eyes are murders bookes.</l>
+                        <l>But what's the cause he lately goes so trim?</l>
+                        <l>He keepes a Trul, or rather she keepes him,</l>
+                        <l>What is his function? or what hath he beene,</l>
+                        <l>A man of armes? no, but of harmes, what then?</l>
+                        <l>Some stile him Captaine for that bloudy deed,</l>
+                        <l>When with his blade he made his friends heart bleed;</l>
+                        <l>But in true valour know, no man is poorer,</l>
+                        <l>He is no Captaine but a turn-bull roarer.</l>
+                     </div>
+                     <div n="10" type="epigram">
+                        <head>
+                           <hi>EPIG. X.</hi> In Blasum.</head>
+                        <l>NOr gold, nor siluer is in <hi>Blaesus</hi> purse,</l>
+                        <l>Nor hath he any creddit, which is worse;</l>
+                        <l>Yet those gilt spurres, which <hi>Blasus</hi> bootes adorne,</l>
+                        <l>Sayes <hi>Blaesus</hi> at his heeles rich gold doth scorne.</l>
+                     </div>
+                     <div n="11" type="epigram">
+                        <head>
+                           <hi>EPIG. XI.</hi> In Pontiam.</head>
+                        <l>A Friend of mine with a loue feuor taken</l>
+                        <l>To the faire rose-cheekt <hi>Pontia,</hi> and forsaken,</l>
+                        <pb facs="tcp:177743:19"/>
+                        <l>Did wish that I with mine owne eyes would proue</l>
+                        <l>If any could dislike, what he did loue,</l>
+                        <l>I did, and as he said, for face and feature,</l>
+                        <l>
+                           <hi>Pontia</hi> at first did seeme an heauenly Creature;</l>
+                        <l>But strange to tel, this gold was copper gilt,</l>
+                        <l>Comming abroad, her beautie all was spilt,</l>
+                        <l>Blowne from her cheekes by the blind Garlick man;</l>
+                        <l>Then lookt she like deaths picture pale and wan,</l>
+                        <l>My freind admir'd; but I did shew the reason:</l>
+                        <l>Though to such beauties, I doe know 'twas treason,</l>
+                        <l>Yet they know wel, that any Fust<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lugges</l>
+                        <l>May buy such beautie in a shop of drugges;</l>
+                        <l>Then courage friend quoth I for six pence cost,</l>
+                        <l>Thy best beloued may buy, what she hath lost;</l>
+                        <l>With that loues feuor left him and he swore</l>
+                        <l>Rather then loue such drugges, hee'd loue a —.</l>
+                     </div>
+                     <div n="12" type="epigram">
+                        <head>
+                           <hi>EPIG. XII.</hi> In marittimos.</head>
+                        <l>SOme say, that Sea men, more then land men loue.</l>
+                        <l>Fond <hi>Venus</hi> sports, and thus their saying proue,</l>
+                        <l>Since <hi>Venus</hi> selfe came of the Seas light froth</l>
+                        <l>Sea men are Venerists, and to say troth,</l>
+                        <l>If as tis said, the Seas light <hi>Venus</hi> bore,</l>
+                        <l>Sea men doe smell of <hi>Venus</hi> on the shore.</l>
+                     </div>
+                     <div n="13" type="epigram">
+                        <pb facs="tcp:177743:19"/>
+                        <head>
+                           <hi>EPIG. XIII.</hi> In Hillum.</head>
+                        <l>MOor fields no more, shal now be Moor fields cal'd,</l>
+                        <l>
+                           <hi>Hilliu</hi> wel read before the same were wal'd;</l>
+                        <l>Seeing the plough goe there did call to mind</l>
+                        <l>A certaine prophesie, which he did find</l>
+                        <l>In <hi>Merlin,</hi> which he said, then came to passe,</l>
+                        <l>Belieue it you that like it, this, it was:</l>
+                        <l>When one whole yeare a Holiday shall last,</l>
+                        <l>Moore fields shall ploughed be the ditch new cast,</l>
+                        <l>If this be true and as all men doe talke,</l>
+                        <l>Their's on a holy-day scarce roome to walke,</l>
+                        <l>Or if <hi>Hill</hi> ly'de; yet since the sence is true,</l>
+                        <l>
+                           <hi>London</hi> may well giue <hi>Holliday</hi> his due.</l>
+                     </div>
+                     <div n="14" type="epigram">
+                        <head>EPIG. XIIII.</head>
+                        <l>FEw gallants lately will, nor is it strange,</l>
+                        <l>Bargaine for needments in the new Exchange;</l>
+                        <l>For on the strand, the new stands bleake and cold,</l>
+                        <l>And they are hot in credit with the old.</l>
+                     </div>
+                     <div n="15" type="epigram">
+                        <pb facs="tcp:177743:20"/>
+                        <head>
+                           <hi>EPIG. XV.</hi> In Lasconem.</head>
+                        <l>HOt-liue'rd <hi>Lasco</hi> with loues longing itches,</l>
+                        <l>But what's the cause since he both yong and rich is,</l>
+                        <l>That whom he woes, he wines not? I doe smell it,</l>
+                        <l>And <hi>Lasco</hi> be not angrie if I tell it,</l>
+                        <l>Thy face well featur'd is, so is thy nose</l>
+                        <l>Though somewhat crimson, which thou dost suppose</l>
+                        <l>With Campher dayly daubing to amend;</l>
+                        <l>But know this drug was neuer louers friend</l>
+                        <l>Then, when to maids or widdowes thou art going</l>
+                        <l>Leaue it, the smell of it doth spoile thy woing.</l>
+                     </div>
+                     <div n="16" type="epigram">
+                        <head>
+                           <hi>EPIG. XVI.</hi> In Orgum.</head>
+                        <l>
+                           <hi>ORgus</hi> loues learning, yes, and will prefer it,</l>
+                        <l>Vowes his assistance, true, I doe auer it;</l>
+                        <l>Yet this I know, the marke, at which he shoot;</l>
+                        <l>Is but to make learning make cleane his boots.</l>
+                     </div>
+                     <div n="17" type="epigram">
+                        <pb facs="tcp:177743:20"/>
+                        <head>
+                           <hi>EPIG. XVII.</hi> In Neponem.</head>
+                        <l>
+                           <hi>NEpo</hi> that payes his hostesse by post scoring,</l>
+                        <l>And hath spent all to learne the art of roaring,</l>
+                        <l>Would be obseru'd: his qualities are many:</l>
+                        <l>Drinke he can stiffely, bandy oathes with any,</l>
+                        <l>Tel tales of bloud and wounds, roare, fight and stab,</l>
+                        <l>Looke bigge, speake bombast, dally with a drab.</l>
+                        <l>All these good parts and more then these hath he;</l>
+                        <l>Yet wants what he deserues: but <hi>Nepo</hi> be</l>
+                        <l>A good prosicient in them, and outrunne</l>
+                        <l>Thy fellow roarers, as thou hast begunne,</l>
+                        <l>And thou before them al maist haue this hap,</l>
+                        <l>To crowne thy head with <hi>Stories</hi> corner cap.</l>
+                     </div>
+                     <div n="18" type="epigram">
+                        <head>EPIG. XVIII.</head>
+                        <l>Loue as 'tis said, doth worke with such strange tooles,</l>
+                        <l>That he can make fooles wise men, wise men fooles.</l>
+                        <l>Then happie I! for being nor foole, nor wise;</l>
+                        <l>Loue with his toyes and tooles I shall d<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>spise,</l>
+                     </div>
+                     <div n="19" type="epigram">
+                        <pb facs="tcp:177743:21"/>
+                        <head>EPIG. XIX.</head>
+                        <l>WHat <hi>Don</hi> past by vs with such complement?</l>
+                        <l>Obseru'd you not his strange a coutrement?</l>
+                        <l>His deep, set holland ruffe so high prefer'd</l>
+                        <l>Aboue his chin, did hide his piked beard:</l>
+                        <l>His cuffes about the tist of eyther hand,</l>
+                        <l>Were both as large and deep as any band</l>
+                        <l>'Bout meane mens neckes: and as the fashion's now</l>
+                        <l>A sugar loafe did crowne his brain-sick brow.</l>
+                        <l>His sleeue vnto his arme sat close and scant,</l>
+                        <l>As if his Countrie English wolle did want,</l>
+                        <l>And wantonly he wore his desperate spit.</l>
+                        <l>In briefe, for fashion, complement and wit,</l>
+                        <l>The man so like a stranger did appeare,</l>
+                        <l>I knew not whence he was; till drawing neare,</l>
+                        <l>I found by his short cloakes new Spanish cape,</l>
+                        <l>'Twas <hi>Don Penechio,</hi> Spaines new English Ape.</l>
+                     </div>
+                     <div n="20" type="epigram">
+                        <head>EPIG. XX.</head>
+                        <l>VVHen fan and fardingale came to carouse</l>
+                        <l>Milke with a milke-maid in a darie house,</l>
+                        <l>Good Lord (said she) the milke pale standing by</l>
+                        <l>Rather then beare such burthens I would die.</l>
+                        <l>Yet (Mistris) quoth the milke-maide, you can beare</l>
+                        <l>Vpon your head an Asses load of heare.</l>
+                     </div>
+                     <div n="21" type="epigram">
+                        <pb facs="tcp:177743:21"/>
+                        <head>
+                           <hi>EPIG. XXI.</hi> In Miluam.</head>
+                        <l>VVHen <hi>Milua</hi> to disgrace me cals me Poet,</l>
+                        <l>Then <hi>Milua</hi> graces me and doth not know it;</l>
+                        <l>Fo Kings and Prophets Poets haue beene stil'd.</l>
+                        <l>Then <hi>Milua,</hi> since thy enuie is beguil'd</l>
+                        <l>To gra<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e me thus in thinking to abuse me,</l>
+                        <l>Still call me Poet and I will excuse thee.</l>
+                     </div>
+                     <div n="22" type="epigram">
+                        <head>EPIG. XXII.</head>
+                        <l>IN tunefull accents of a dolefull straine</l>
+                        <l>Old <hi>Verlams</hi> fall thus <hi>Colin</hi> did complaine:</l>
+                        <l>
+                           <hi>Verlam</hi> I was: what boots it what I was</l>
+                        <l>Sith now I am but weeds and wastfull grasse?</l>
+                        <l>But lin'd he now to see out Townes each day</l>
+                        <l>Made coats fot sheep: of them he thus might say,</l>
+                        <l>Townes once we were: what boots it what we were</l>
+                        <l>Since nothing now but sheepes dung doth appeare?</l>
+                        <l>Here's neyther greene of wastfull weeds or grasse,</l>
+                        <l>Our wretched case is worse then <hi>Verlams</hi> was.</l>
+                     </div>
+                     <div n="23" type="epigram">
+                        <pb facs="tcp:177743:22"/>
+                        <head>
+                           <hi>EPIG. XXIII.</hi> In Malsanctum.</head>
+                        <l>BEardlesse <hi>Malsanctus</hi> many doe thee wrong,</l>
+                        <l>To thinke thee so deuout, and yet so yong.</l>
+                        <l>Dost goe to lecturs? I commend thee for it:</l>
+                        <l>But wherefore? to what end? O I abhor it;</l>
+                        <l>To shoot thy darts from a lust-sparkling eye,</l>
+                        <l>Into the breast of some chast <hi>Susan</hi> by.</l>
+                        <l>Leaue it <hi>Malsanctus,</hi> marke how I aduise,</l>
+                        <l>Leaue not the Church, but leaue this wicked guise.</l>
+                     </div>
+                     <div n="24" type="epigram">
+                        <head>
+                           <hi>EPIG. XXIIII.</hi> In Popaam.</head>
+                        <l>TVrn-Bul <hi>Popaea</hi> to her healths annoy</l>
+                        <l>Made drunk at supper by a roaring boy,</l>
+                        <l>Reeles through the street: at which an elder Sage,</l>
+                        <l>Who neuer knew such custome in his age,</l>
+                        <l>Admiring said, I once, and, as I thinke,</l>
+                        <l>But once did see a man thus drown'd in drinke,</l>
+                        <l>But neuer woman. One that heard him vse</l>
+                        <l>This sharpe reproofe, our women to excuse,</l>
+                        <l>Said, Sir, were this a woman that is drunke,</l>
+                        <l>'Twere strange indeed; but 'tis not, 'tis a punke.</l>
+                     </div>
+                     <div n="25" type="epigram">
+                        <pb facs="tcp:177743:22"/>
+                        <head>
+                           <hi>EPIG. XXV.</hi> In Ocuum.</head>
+                        <l>THe worshipful Sir <hi>Ocuus</hi> deeds of pitie</l>
+                        <l>Haue wonne him grace in Countrie and in Citie.</l>
+                        <l>For the poore wife of many a man decaid</l>
+                        <l>Hath tasted his free bountie: and 'tis said</l>
+                        <l>He leads a single life, that he may giue</l>
+                        <l>His almes to those, that poore, yet wedded liue:</l>
+                        <l>But they that thinke this Charitie, mistake;</l>
+                        <l>For know 'tis only for the womans sake,</l>
+                        <l>That in her husbands house by <hi>Ocuus</hi> planting,</l>
+                        <l>The horne of plentie growes, and nothing's wanting.</l>
+                     </div>
+                     <div n="26" type="epigram">
+                        <head>
+                           <hi>EPIG. XXVI.</hi> In Vindicem.</head>
+                        <l>FOule is the bird, that wil defile his nest;</l>
+                        <l>Yet <hi>Vindex</hi> worse then eyther bird or beast,</l>
+                        <l>All women monsters euery where proclaimes:</l>
+                        <l>Which to affirme the <hi>Stagirite</hi> he names,</l>
+                        <l>Who sayes they are imperfect Creatures all.</l>
+                        <l>Then what doth <hi>Vindex</hi> his owne mother call?</l>
+                        <l>A monsterlyes; then this must currant passe,</l>
+                        <l>A monster woman bore a monstrous Asse.</l>
+                     </div>
+                     <div n="27" type="epigram">
+                        <pb facs="tcp:177743:23"/>
+                        <head>EPIG. XXVII.</head>
+                        <l>SOme thinke, that naked vertue, which of yore</l>
+                        <l>Was seene in women, is now seene no more.</l>
+                        <l>I thinke not so: if ve tue naked be,</l>
+                        <l>In women, men, more vertue nere did see.</l>
+                        <l>For doubtlesse vertue being naked rests</l>
+                        <l>With much content in their all naked brests.</l>
+                     </div>
+                     <div n="28" type="epigram">
+                        <head>EPIG. XXVIII.</head>
+                        <l>MAny wil say money will not increase</l>
+                        <l>In any poore mans purse, while we haue peace;</l>
+                        <l>But let such men complaine on peace no more,</l>
+                        <l>I thinke our warres are hotter then before,</l>
+                        <l>For both in men and women, this is knowne,</l>
+                        <l>Surgeons ne're found more wounds to worke vpon.</l>
+                     </div>
+                     <div n="29" type="epigram">
+                        <head>
+                           <hi>EPIG. XXIX.</hi> In Syringam Panafugientem.</head>
+                        <l>FRom rugged <hi>Pan</hi> though louely <hi>Syriux</hi> fled,</l>
+                        <l>Pretending so to saue her maidenhead;</l>
+                        <l>Yet in the end the chaster Nimph did stay</l>
+                        <l>To be the pipe, when <hi>Pan</hi> would please to play.</l>
+                     </div>
+                     <div n="30" type="epigram">
+                        <pb facs="tcp:177743:23"/>
+                        <head>
+                           <hi>EPIG. XXX.</hi> In Remum.</head>
+                        <l>
+                           <hi>REmus</hi> doth kicke, because I rub the soare,</l>
+                        <l>Rayles at my labours, sweares their fruit's all chore,</l>
+                        <l>And in his rage will write against me too,</l>
+                        <l>As some suppose. I prethe <hi>Remus</hi> do:</l>
+                        <l>The idle Drone hummes lowder then the Bee,</l>
+                        <l>Yet hath no sting. Can <hi>Remus</hi> then hurt mee?</l>
+                     </div>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:24"/>
+                  <head>Megera.</head>
+                  <div type="dedication">
+                     <pb facs="tcp:177743:24"/>
+                     <head>TO THE WORSHIPFVLL AND worthie Gentleman, louer of Artes and Learning, Master THOMAS FISHER.</head>
+                     <lg>
+                        <l>HE that is more, then what he seemes to bee,</l>
+                        <l>Deriues his worth from no such idle fame,</l>
+                        <l>As fashion only giues: that which we see</l>
+                        <l>Of golden vanitie, is not the same</l>
+                        <l>Which it appeares; and therefore I would find</l>
+                        <l>One that hath more then what bare fashion made,</l>
+                        <l>That might without partialitie of minde</l>
+                        <l>Proceed to censure that which heere is said.</l>
+                        <l>Then leauing those, whose worth on vaine <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>stent</l>
+                        <l>Of golden outsides only doth depend;</l>
+                        <l>To you (praise-worthie Sir) this part is meant.</l>
+                        <l>This Furie to your censure I commend:</l>
+                     </lg>
+                     <lg>
+                        <l>In reading which, if you no profit gaine,</l>
+                        <l>You shall at least find pleasure for your paine.</l>
+                     </lg>
+                  </div>
+                  <div type="part">
+                     <pb facs="tcp:177743:25"/>
+                     <head>THE FVRIES.</head>
+                     <div n="1" type="epigram">
+                        <head>
+                           <hi>EPIG. I.</hi> Ad Lectorem.</head>
+                        <l>TWo Furies you haue past; therefore be glad,</l>
+                        <l>And (Reader) yet if you no ierke haue had,</l>
+                        <l>Boldly read on: if Vertue with you goe,</l>
+                        <l>You may escape <hi>Megaeras</hi> whip I know.</l>
+                     </div>
+                     <div n="2" type="epigram">
+                        <head>
+                           <hi>EPIG. II.</hi> Ad Megaeram.</head>
+                        <l>VP thou third daughter of sad <hi>Acheron,</hi>
+                        </l>
+                        <l>Earth more then pale <hi>Auernus</hi> now doth grone</l>
+                        <l>Beneath hels tyrants, vp then, take thy stand,</l>
+                        <l>Be readie with thy snakie scourge in hand</l>
+                        <l>To startle them: and as thou tak'st thy name</l>
+                        <l>From hate of ougly vice, now shew the same,</l>
+                        <l>Spare none (dread Virgin) so men title thee,</l>
+                        <l>True Virgins neuer can corrupted bee.</l>
+                     </div>
+                     <div n="3" type="epigram">
+                        <head>EPIG. III.</head>
+                        <l>BY chance I met a thing vpon the way,</l>
+                        <l>Which came from France at first as men did say:</l>
+                        <pb facs="tcp:177743:25"/>
+                        <l>It feign'd big lookes, yet had a womans face;</l>
+                        <l>It stalkt it too, but with a womans pace;</l>
+                        <l>And with a womans voyce it squeakt out oathes;</l>
+                        <l>Had womans lockes and lookes, and womans cloathes;</l>
+                        <l>Hat, band and bodies, periwig of heare,</l>
+                        <l>Excepting bootes and spurres, all womens weare.</l>
+                        <l>Wondring I askt what 'twas: one, that did eye it.</l>
+                        <l>Said sir, a gallant, or the cloathes belie it.</l>
+                        <l>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sing, that womans weare should make a man,</l>
+                        <l>To question with this gallant I began:</l>
+                        <l>But faith I found him, both in act and speech</l>
+                        <l>Woman in euery part, excepting breech.</l>
+                     </div>
+                     <div n="4" type="epigram">
+                        <head>
+                           <hi>EPIG. IIII.</hi> In Pontiam.</head>
+                        <l>YOng <hi>Portia</hi> long lockt vp from sight of all</l>
+                        <l>By her old <hi>Beco,</hi> vnto minde did call</l>
+                        <l>A wittie wile, th' old Fox to circumuent,</l>
+                        <l>And know her loued <hi>Parius</hi> whole intent.</l>
+                        <l>An aged Crone, that came with staffe in hand</l>
+                        <l>Bone lace to sel, her mind did vnderstand,</l>
+                        <l>And at the next returne from <hi>Parius</hi> came</l>
+                        <l>With more bone-lace to sel, and in the same</l>
+                        <l>A letter wrapt, <hi>Pontias</hi> good man stood by,</l>
+                        <l>And askt his wife, which parcell pleas'd her eye:</l>
+                        <l>That with the horned peaks, said she. He bought it</l>
+                        <l>And with his owne hand to his wife he rought it,</l>
+                        <l>Thus iealous <hi>Beco</hi> bought, such was his hap,</l>
+                        <l>Bone lace with hornes, to edge his owne night-cap.</l>
+                     </div>
+                     <div n="5" type="epigram">
+                        <pb facs="tcp:177743:26"/>
+                        <head>
+                           <hi>EPIG. V.</hi> In Bibonem.</head>
+                        <l>IF <hi>(Bibo)</hi> I doe tax thee heere at all,</l>
+                        <l>Good fellowes streight wil sweare my inke was gall.</l>
+                        <l>For while thy purse can shew one crosse of monie,</l>
+                        <l>No fellow-friend of thine shall spend one pennie:</l>
+                        <l>And when thou scarse canst sit vpon thy stoole,</l>
+                        <l>Thou drink'st vp all mens healthes. But know O foole</l>
+                        <l>As if from friends thou wouldst win death by stealth,</l>
+                        <l>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u drink'st thine own disease to their good health:</l>
+                        <l>And for thy kind good will (kind hearted Asse)</l>
+                        <l>When thou art dead, this Epitaph shall passe,</l>
+                        <l>
+                           <hi>Here Bibo lies, whose losse few now doe mone,</hi>
+                        </l>
+                        <l>
+                           <hi>Though drinking to their healths he lost his owne.</hi>
+                        </l>
+                     </div>
+                     <div n="11" type="epigram">
+                        <head>EPIG. XI.</head>
+                        <l>DVI <hi>Doll</hi> but one eye hath, and with that one</l>
+                        <l>Sees more then many doe with two. For none</l>
+                        <l>Lookes more asquint at others good, then she,</l>
+                        <l>She enuies all, which that one eye doth see.</l>
+                        <l>But <hi>Doll,</hi> to be a Christian now begin:</l>
+                        <l>Put out that eye, or put away that sin.</l>
+                     </div>
+                     <div n="7" type="epigram">
+                        <head>
+                           <hi>EPIG. VII.</hi> In Luponem.</head>
+                        <l>CHurch-chaffring <hi>Lupo</hi> is an honest man,</l>
+                        <l>Touch him with any fault no neighbour can,</l>
+                        <pb facs="tcp:177743:26"/>
+                        <l>Yet six impropriate liuings are his liuing;</l>
+                        <l>His leauings to the Leuite in his giuing</l>
+                        <l>Are pious deeds: and when rich <hi>Lupo</hi> writes</l>
+                        <l>The false sowne seeds of his wiues stolne delights,</l>
+                        <l>Sole heire to all these liuings, when he dies;</l>
+                        <l>Yet still is wealthie <hi>Lvpo</hi> counted wise:</l>
+                        <l>For he did leaue, but what he should haue done,</l>
+                        <l>Improper liuings t'an Improper sonne.</l>
+                     </div>
+                     <div n="8" type="epigram">
+                        <head>
+                           <hi>EPIG. VIII.</hi> In Pisonem.</head>
+                        <l>
+                           <hi>PIso</hi> t'his wife in all things doth accord,</l>
+                        <l>Except in this: He needs must be her Lord</l>
+                        <l>And she his slaue. To proue it, he wil draw</l>
+                        <l>His argument from God and natures law:</l>
+                        <l>He is the head, and she must be the foot.</l>
+                        <l>Good reason too. Then <hi>Piso</hi> vrge her too't,</l>
+                        <l>Humble her well and make her stoop to thee,</l>
+                        <l>And thou perhaps in time all head maist bee.</l>
+                     </div>
+                     <div n="9" type="epigram">
+                        <head>EPIG. IX.</head>
+                        <l>VVHich of the Sages order shall I keepe;</l>
+                        <l>The one of which did laugh, the other weepe</l>
+                        <l>To see my new made, Sir, who yet smels fresh</l>
+                        <l>Of Lenton schooles, euen the first day that flesh</l>
+                        <l>May be alow'd, seise the precostris, and</l>
+                        <l>Out-acting famous <hi>Roscius</hi> with his hand</l>
+                        <pb facs="tcp:177743:27"/>
+                        <l>Giue pasport to his phrase appli'd vnfit</l>
+                        <l>Coind in the mint of his own mother wit.</l>
+                        <l>But chaffie stalkes of Corne their heads doe beare</l>
+                        <l>High and aloft, whereas the fuller eare</l>
+                        <l>Bowes humbly downe: he workes vpon this ground</l>
+                        <l>Who is not, yet to some may seeme, profound,</l>
+                        <l>And little reading serue, if in this case,</l>
+                        <l>The bookes kinde <hi>index</hi> bee his common place.</l>
+                        <l>But prethee <hi>(Domine)</hi> take heed in time,</l>
+                        <l>Accept the counsell of my ruder time.</l>
+                        <l>'Tis nere too late good actions to begin:</l>
+                        <l>The Asse must lay aside his borrow'd skin.</l>
+                        <l>Backe to Parnassus, reade 'ore wisdomes booke,</l>
+                        <l>And let time giue thy youth a grauer looke:</l>
+                        <l>Else heere thy life and learning both are doomb'd,</l>
+                        <l>With thy yong credit to be cradle-toomb'd.</l>
+                     </div>
+                     <div n="10" type="epigram">
+                        <head>EPIG. X.</head>
+                        <l>ON earth Phisitions are as gods of health.</l>
+                        <l>O then, how happie is our Common-wealth,</l>
+                        <l>In which so many yong Phisitions been,</l>
+                        <l>That they be gods, before that they be men!</l>
+                     </div>
+                     <div n="11" type="epigram">
+                        <head>
+                           <hi>EPIG. XI.</hi> In Poeticam &amp; paupertatem.</head>
+                        <l>Twixt Poetrie and pouertie is found</l>
+                        <l>Congruitie in sense as well as sound.</l>
+                        <l>The cause is this: when Poetrie did aime</l>
+                        <l>Beyond blind fortunes flight to follow fame,</l>
+                        <pb facs="tcp:177743:27"/>
+                        <l>Fortune tooke V. in Poetrie to place it</l>
+                        <l>Twixt O. and E. with R. so to disgrace it.</l>
+                        <l>But Gramer did denie; then Fortune swore</l>
+                        <l>In spight of Gramer Poets should be poore.</l>
+                     </div>
+                     <div n="12" type="epigram">
+                        <head>
+                           <hi>EPIG. XII.</hi> In Tubrionem.</head>
+                        <l>
+                           <hi>TVbrio</hi> the termer, though a rustick Asse,</l>
+                        <l>Will make the Court his fancies looking glasse,</l>
+                        <l>And late a yellow band he carried downe</l>
+                        <l>To make himselfe more noted in the Towne.</l>
+                        <l>On Sunday on he puts it, and, that all</l>
+                        <l>The Rustickes might behold his yellow fall,</l>
+                        <l>Loud gingling spurres he wore, to bid them stand</l>
+                        <l>And view the fashion of his yellow band.</l>
+                        <l>But <hi>Tubrio</hi> next time lay thy spurres aside;</l>
+                        <l>Thy boots were only seene, thy band not ey'd.</l>
+                     </div>
+                     <div n="13" type="epigram">
+                        <head>
+                           <hi>EPIG. XIII.</hi> In Amorem.</head>
+                        <l>LOue is a boy and subiect to the rod</l>
+                        <l>Some say, but louers say he is a god.</l>
+                        <l>I thinke that loue is neyther god nor boy,</l>
+                        <l>But a mad braines imaginarie toy.</l>
+                     </div>
+                     <div n="14" type="epigram">
+                        <head>
+                           <hi>EPIG. XIIII.</hi> In Verrem.</head>
+                        <l>BLunt <hi>Verres</hi> meeting with me in the strand</l>
+                        <l>Said, God be praysed, holding vp his hand.</l>
+                        <pb facs="tcp:177743:28"/>
+                        <l>Why friend, what is the matter, answer'd I:</l>
+                        <l>O sir said he, as I was passing by,</l>
+                        <l>
+                           <hi>Plutoes</hi> black Coach, for sure the Coach was his,</l>
+                        <l>From running ouer me did little misse.</l>
+                        <l>This feare of his I checkt with some reproach,</l>
+                        <l>And askt him why he thought 'twas <hi>Plutoes</hi> Coach.</l>
+                        <l>Foure fierie horse, quoth he, which drew the same</l>
+                        <l>Few with it through the street like lightnings flame:</l>
+                        <l>The driuer sat before, neckt like a Bu l,</l>
+                        <l>Grimme was his beard, his cap was like a skull,</l>
+                        <l>And with a whip, which in his hand he had,</l>
+                        <l>He laid about and lasht, as he were mad;</l>
+                        <l>Three Furies sate, Furies I thinke they were,</l>
+                        <l>Within the Coach, whose heads with grizly heare</l>
+                        <l>Were drest, or rather vndrest, and withall</l>
+                        <l>Toyes like <hi>Medusas</hi> Snakes about did crall;</l>
+                        <l>Their yellow coloured b<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nds, and strange attire,</l>
+                        <l>About their neck<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, appear'd like wheeles of fire,</l>
+                        <l>And on their cheekes, which glow'd with scarlet die,</l>
+                        <l>And pappes made bare to euerie vulgar eye,</l>
+                        <l>Blacke specks and pimpels here and there were seene</l>
+                        <l>As if their bodies had infected beene.</l>
+                        <l>This was their fashion, thus all three were shapt,</l>
+                        <l>And glad I am that I from them escapt.</l>
+                        <l>At this I smil'd, and bad my friend goe looke</l>
+                        <l>What these three were, whom he for Furies tooke.</l>
+                     </div>
+                     <div n="15" type="epigram">
+                        <head>
+                           <hi>EPIG. XV.</hi> In Gracchum.</head>
+                        <l>
+                           <hi>GRacchus</hi> will sweare all women are vnchast,</l>
+                        <l>Yet <hi>Gracchus</hi> thou I thinke a woman h<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>st</l>
+                        <pb facs="tcp:177743:28"/>
+                        <l>Vnto thy mother, say then, what was shee?</l>
+                        <l>O you are silent now, wel this must be;</l>
+                        <l>Or women all must be vnchast no more</l>
+                        <l>Or <hi>Grachus</hi> must be th' of-spring of a —.</l>
+                     </div>
+                     <div n="16" type="epigram">
+                        <head>EPIG. XVI.</head>
+                        <l>VVIll you know how we English men excell</l>
+                        <l>All other Nations? euery one can tell,</l>
+                        <l>Time and occasion out of all the rest,</l>
+                        <l>Hath doubtlesse made an English man the best.</l>
+                        <l>His head and neck are Spanish; for his hat</l>
+                        <l>And ruffe vnto the World can witnesse that.</l>
+                        <l>His back is french, clad in their court quaint weeds:</l>
+                        <l>His belly German; for with them he feeds:</l>
+                        <l>His breech Venetian, greedie in delight:</l>
+                        <l>His legs are dutch, that cannot goe vpright:</l>
+                        <l>He then I thinke is best, since all these can</l>
+                        <l>Hardly make vp a perfect English man.</l>
+                     </div>
+                     <div n="17" type="epigram">
+                        <head>EPIG. XVII.</head>
+                        <l>A Friend and I consorting on the way,</l>
+                        <l>In midst of Cheap vpon a working day,</l>
+                        <l>Spide a faire painted picture, as we thought,</l>
+                        <l>Vpon a stall, set to be so<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d and bought.</l>
+                        <l>But marke our grosse mistake, when we drew neare</l>
+                        <l>To veiw the same, it plainly did appeare</l>
+                        <l>By knocking those light heeles against the bench,</l>
+                        <l>'T was no dead picture, but a liuely wench.</l>
+                     </div>
+                     <div n="18" type="epigram">
+                        <pb facs="tcp:177743:29"/>
+                        <head>
+                           <hi>EPIG. XVIII.</hi> In Lidiam.</head>
+                        <l>
+                           <hi>LIdia</hi> though village bred and meanly borne,</l>
+                        <l>Yet made my Ladies Chamber-maide doth scorne</l>
+                        <l>Al but the Court, your Citie Sea-cole aire</l>
+                        <l>Is foggie grosse, and s<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oile, her cheese greene faire,</l>
+                        <l>She sayes that London d<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mes are dull not wit<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ie,</l>
+                        <l>Nor fancies she the fashions of th Cittie:</l>
+                        <l>Therefore all Citie sutors woe in vaine,</l>
+                        <l>The learned Courtier hardly may obtaine</l>
+                        <l>Faire <hi>Lidias</hi> loue, but wherefore? I can tell her,</l>
+                        <l>She loues his Lordships yeoman of the celler.</l>
+                     </div>
+                     <div n="19" type="epigram">
+                        <head>
+                           <hi>EPIG. XIX.</hi> In nigrum,</head>
+                        <l>I Prethe <hi>Niger</hi> leaue to play the Ape,</l>
+                        <l>In this quaint age, <hi>Chaucers</hi> misconstru'd iape</l>
+                        <l>Is not so sordid, as each common iest</l>
+                        <l>Which thou dost parbreake; thou art growne a guest</l>
+                        <l>Most cumbers<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me to friends, thy iests are gall,</l>
+                        <l>Yet rather then loose one, thou'lt loose them all;</l>
+                        <l>But <hi>Niger</hi> take good heed, least with some friend,</l>
+                        <l>Thou iest away thy wit, too in th' end.</l>
+                     </div>
+                     <div n="20" type="epigram">
+                        <head>EPIG. XX.</head>
+                        <l>IN time of peace, the wisemans counsel is,</l>
+                        <l>To practise martiall feates, and we in this,</l>
+                        <pb facs="tcp:177743:29"/>
+                        <l>The garland to our English <hi>Hauns</hi> must yeeld:</l>
+                        <l>Who daily traines good fellowes for the field:</l>
+                        <l>The bloud-red lettice tauerne is the plot,</l>
+                        <l>Which for a <hi>campus Martius Hauns</hi> hath got;</l>
+                        <l>The Vintners Iuie bush for these <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ffaires</l>
+                        <l>The ensigne is, to which his men repaires</l>
+                        <l>His Drums and Fifes are Fiddles, Sagbuttes are</l>
+                        <l>His Trumpets; thus begins, his desperate warre;</l>
+                        <l>Fiue in a ranke in stead of smaller shot</l>
+                        <l>Play with Tobacco Pipes, whose vapour hot</l>
+                        <l>Heating the head, hid all in cloudes of smoke,</l>
+                        <l>Doth with high valour eyther side prouoke;</l>
+                        <l>Then eagerly instead of Cannos roare,</l>
+                        <l>The pottle pots doe thunder on the floare;</l>
+                        <l>
+                           <hi>Hanus</hi> brauely brings them on, pel-mel they close;</l>
+                        <l>Then on the boord the bloud-like licour flowes,</l>
+                        <l>Heere one drops downe an other there doth fall,</l>
+                        <l>Heere one as wounded, leanes against the wall,</l>
+                        <l>But <hi>Hauns</hi> stil leader-like doth courage crie,</l>
+                        <l>Till they about him all <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ike dead men lie,</l>
+                        <l>And he in his own head now wo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nded sore,</l>
+                        <l>Is carried f<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>om the fight let none therefore</l>
+                        <l>Slight valiant <hi>Hauns,</hi> more men to death doe yeeld</l>
+                        <l>In <hi>Hauns</hi> his battailes, then in <hi>Mars</hi> his field.</l>
+                     </div>
+                     <div n="21" type="epigram">
+                        <head>
+                           <hi>EPIG. XXI.</hi> In Fortunam.</head>
+                        <l>'MOngsts Ethnickes <hi>Fortune</hi> was a Deitie,</l>
+                        <l>'Mongst Christians 'tis a grosse impietie,</l>
+                        <l>To thinke it any powre, if any ill</l>
+                        <l>Betide a man, 'tis his his owne wicked will</l>
+                        <pb facs="tcp:177743:30"/>
+                        <l>Was cause of it; if any good, t'is knowne</l>
+                        <l>'Tis from aboue: then Fortune there is none,</l>
+                        <l>'Tis but a word of idle wits creation</l>
+                        <l>And fauours fooles but in imagination.</l>
+                     </div>
+                     <div n="22" type="epigram">
+                        <head>
+                           <hi>EPIG. XXII.</hi> In nomen suum.</head>
+                        <l>RIch heart of <hi>Richard,</hi> as the <hi>Saxons</hi> say,</l>
+                        <l>Is th' Etymologie: an other way</l>
+                        <l>Is hard and rich. But some from this I feare,</l>
+                        <l>Hard to be Rich, the name of <hi>Richard</hi> beare.</l>
+                     </div>
+                     <div n="23" type="epigram">
+                        <head>
+                           <hi>EPIG. XXIII.</hi> In Papam Rom.</head>
+                        <l>ROme cals her Bishop <hi>Papa,</hi> of a Father:</l>
+                        <l>We English cal him Pope, of <hi>Popa</hi> rather.</l>
+                        <l>
+                           <hi>Popa</hi> a bloudie Sacrificer is</l>
+                        <l>Or greedie glutton; therefore not amisse:</l>
+                        <l>Since he still sacrifices for our fall,</l>
+                        <l>A Pope, not <hi>Papa,</hi> Englishmen him call.</l>
+                     </div>
+                     <div n="24" type="epigram">
+                        <head>EPIG. XXIIII.</head>
+                        <l>SOme the word wanton fetch, though with small skill,</l>
+                        <l>From those, that want one to effect their will,</l>
+                        <l>If so, I thinke that wantons there are none,</l>
+                        <l>For till the World want men, can they want one?</l>
+                     </div>
+                     <div n="25" type="epigram">
+                        <pb facs="tcp:177743:30"/>
+                        <head>EPIG. XXV.</head>
+                        <l>AMongst the pack of knaues, which is the chiefe;</l>
+                        <l>Your breaker, broker, vsurer, or thief?</l>
+                        <l>I know, thta many men your thiefe will say;</l>
+                        <l>For in this age, your great rich wise man may</l>
+                        <l>Breake, yet be whole and compleat as before:</l>
+                        <l>Whereas your thiefe, a thiefe is euermore.</l>
+                        <l>Thus from your <hi>thiefe the breaker th' odds must haue,</hi>
+                        </l>
+                        <l>To be your wise, rich, great and compleat knaue.</l>
+                     </div>
+                     <div n="26" type="epigram">
+                        <head>EPIG. XXVI.</head>
+                        <l>FRom impure mouthes, now many beare the name</l>
+                        <l>Of Puritan, yet merit not the same.</l>
+                        <l>This one shall only be my Puritan,</l>
+                        <l>That is a knaue; yet seemes an honest man.</l>
+                     </div>
+                     <div n="27" type="epigram">
+                        <head>EPIG. XXVII.</head>
+                        <l>IS that great deed of <hi>Edgar,</hi> Englands glorie,</l>
+                        <l>To be approu'd: who as we reade in storie</l>
+                        <l>Destroi'd this Kingdomes wolues; because that they</l>
+                        <l>Deuour'd our sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ep? sure yes: yet some say nay,</l>
+                        <l>Wishing we had no other wolues; for then</l>
+                        <l>Wolues did eate sheep: but sheep now eat vp men.</l>
+                     </div>
+                     <div n="28" type="epigram">
+                        <pb facs="tcp:177743:31"/>
+                        <head>EPIG. XXVIII.</head>
+                        <l>VVOman mans shadow is, loue is the Sunne,</l>
+                        <l>Now in the Sunne, if man his shadow shunne;</l>
+                        <l>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> followes h<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m: but if he follow it.</l>
+                        <l>It the<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> shu<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> him and shewes his want of wit.</l>
+                     </div>
+                     <div n="29" type="epigram">
+                        <head>
+                           <hi>EPIG. XXIX.</hi> In mortis timorem.</head>
+                        <l>HOw base hath sinne made man to feare the thing,</l>
+                        <l>That men call <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rs;</hi> which, yet hath lost all sting,</l>
+                        <l>And is but a priuation, as we know,</l>
+                        <l>Nay i<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> no word, if we exempt the O.</l>
+                        <l>Then let good men the feare of it defie,</l>
+                        <l>All is but ò when they shall come to die.</l>
+                     </div>
+                     <div n="30" type="epigram">
+                        <head>
+                           <hi>EPIG. XXX.</hi> In Scyllam.</head>
+                        <l>COy <hi>Scylla</hi> sweares that she will neuer loue me,</l>
+                        <l>Rayles at my times; and sayes, that she wil proue me</l>
+                        <l>A traytor to the sex; yet none shall find,</l>
+                        <l>That I was euer false to woman kind,</l>
+                        <l>She sayes their secrets are disclos'd by me,</l>
+                        <l>And so condemnes me; yet in Charitie</l>
+                        <l>I should be quit, were women of my iurie,</l>
+                        <l>Since 'twas in heat of bloud, and writ in <hi>Furie,</hi>
+                        </l>
+                     </div>
+                  </div>
+                  <trailer>Finis.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:177743:31"/>
+                  <p>VERTVES ENCOMIVM.</p>
+                  <p>OR, <hi>The Jmage of Honour.</hi>
+                  </p>
+                  <p>Honor virtutis praemium.</p>
+                  <figure>
+                     <p>PRO LEGE REGE, ET GREGE</p>
+                     <p>LOVE KEPYTH THE LAWE, OBEYETH THE KYNGE, AND IS GOOD TO THE COMMEN WELTHE.</p>
+                     <figDesc>seal depicting a pelican feeding her young</figDesc>
+                  </figure>
+                  <p>LONDON, Printed by <hi>William Stansby.</hi> 1614.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:177743:32"/>
+                  <pb facs="tcp:177743:32"/>
+                  <head>TO THE MOST noble Ladie, the Ladie HONO<g ref="char:EOLhyphen"/>RIA HAY, wife to the right honourable the Lord HAY, <hi>sole daughter and heire to the right honourable the Lord</hi> DENNIE.</head>
+                  <lg>
+                     <l>THough (noble Ladie) in your Honors prayse,</l>
+                     <l>Beneath the shadow of your fauours wing</l>
+                     <l>A sweet <hi>Siluester</hi> Nightingale doth sing:</l>
+                     <l>The graceful musick, of whose heauenly laies,</l>
+                  </lg>
+                  <lg>
+                     <l>From times bests wits, now beares away the baies.</l>
+                     <l>Yet (Beauties best) since meanest birds, ech Spring,</l>
+                     <l>To choisest eares some pleasing sounds do bring;</l>
+                     <l>Vouch safe to heare my Muse in her Essayes.</l>
+                  </lg>
+                  <lg>
+                     <l>Where vrg'd by hope, thogh yet not free frō doubt</l>
+                     <l>That once her sisters teares did fauour find,</l>
+                     <l>Your Honours image heere doth portrait out,</l>
+                  </lg>
+                  <lg>
+                     <l>As th' humble pledge of my true thankfull mind.</l>
+                     <l>If that did erre, I hope in this alone;</l>
+                     <l>Since Honours chiefe, this image is your owne.</l>
+                  </lg>
+                  <closer>
+                     <signed>
+                        <hi>Your Honours most</hi> humbly deuoted <hi>R. N.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:177743:33"/>
+                  <head>To the Reader.</head>
+                  <p>
+                     <seg rend="decorInit">G</seg>Entlewomen) this last and least part of my li<g ref="char:EOLhyphen"/>tle labour, I consecrate to you, the image of whose honour, though so excellent, that like that part of the picture of <hi>Venus</hi> left to po<g ref="char:EOLhyphen"/>steritie by <hi>Apelles,</hi> takes away all hope of imi<g ref="char:EOLhyphen"/>tating the same; Yet to acquit my selfe of that madnesse, which the woman-hater doth indeuour to make mine, perhaps though more hastily then happily, I haue here cast off this image of Ho<g ref="char:EOLhyphen"/>nour from the model of a woman, in honour of your sex. To an<g ref="char:EOLhyphen"/>swer those, that say, my pen drops gall against you in the first part, I desire you to know that my <hi>Furies</hi> touch none but those Apes of yours; such I meane, who making no difference betw<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xt Swans and Geesse; because they haue both white feathers, i<g ref="char:EOLhyphen"/>mitate only your fashion not your vertues. If in what followes you find my stile too harsh for so sweet a subiect, my forme too impolish for so faire an image, be pleased to know that I am limited to Epigrams, in which no pen can limme so faire a picture as your faire deserues; such as it is; if you respect it, I care not who reiect it, for, I put my selfe vnder your protection.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:177743:33"/>
+                  <head>To the same right Honourable the Ladie <hi>Honoria Hay, &amp;c.</hi>
+                  </head>
+                  <div n="1" type="epigram">
+                     <head>EPIG. I.</head>
+                     <l>VErtues, wits, beauties, riches perfect Honour)</l>
+                     <l>Though my meeke Muse to weake to take vpon her</l>
+                     <l>
+                        <hi>Ʋertues Encomium,</hi> t' Epigrams confin'd;</l>
+                     <l>Ye<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> being bound to honour women kind,</l>
+                     <l>And quit her selfe of late imputed blame,</l>
+                     <l>Doth neere pres<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me to vse your Honours name,</l>
+                     <l>That women-hating madmen, that of late</l>
+                     <l>Haue lost their wits; yet still retaine their hate,</l>
+                     <l>By lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>king on you image, may restore</l>
+                     <l>Then little wits and so be mad no more.</l>
+                  </div>
+                  <div n="2" type="epigram">
+                     <head>
+                        <hi>EPIG. II.</hi> Apoll.</head>
+                     <l>HOnour is masculine Gramarians say,</l>
+                     <l>Nor by a woman pourtrait heere I may</l>
+                     <l>Honours true image: yet the vertues all</l>
+                     <l>Are faeminine and Honour needs must fall</l>
+                     <l>If vertue failes 'tis vertues cheife reward;</l>
+                     <l>Then women in this faeminine regard,</l>
+                     <l>Since all the vertues doe attend vpon her,</l>
+                     <l>I heere present, for th' image of true Honour.</l>
+                  </div>
+                  <div n="3" type="epigram">
+                     <pb facs="tcp:177743:34"/>
+                     <head>
+                        <hi>EPIG. III.</hi> In templum Honoris.</head>
+                     <l>VPon a hill, whose height doth reach the starres,</l>
+                     <l>Honour hath rais'd her phane: true vertue barres</l>
+                     <l>The passage to the same, whose Temple stands</l>
+                     <l>In the mid-way. Without industrious hands,</l>
+                     <l>Things great and glorious no man may attaine.</l>
+                     <l>He that wil clime this hil to Honour<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> phane,</l>
+                     <l>First, like the mysterie-supporting asse,</l>
+                     <l>Through vertues temple must with patience passe.</l>
+                  </div>
+                  <div n="4" type="epigram">
+                     <head>
+                        <hi>EPIG. IIII.</hi> In habitum Honoris.</head>
+                     <l>TImes Swan-white wings illustrate Honour weares,</l>
+                     <l>With which frō earth she mounts vnto the Spheares:</l>
+                     <l>Truths azure robes are her immortall weeds,</l>
+                     <l>Painted with Fames bright star-made glorious deeds.</l>
+                     <l>They then that Honour seeke by deeds of same,</l>
+                     <l>Through time and truth must first attempt the same.</l>
+                  </div>
+                  <div n="5" type="epigram">
+                     <pb facs="tcp:177743:34"/>
+                     <head>
+                        <hi>EPIG. V. Aeternitas.</hi> In Caput.</head>
+                     <l>A Crowne of Roses pluckt by her owne hand</l>
+                     <l>From Fames faire tree, vpon her head doth stand</l>
+                     <l>Whose amber tresses flowing downe thereby,</l>
+                     <l>Seeme golden ensignes of Eternitie.</l>
+                     <l>He then that gets a tramell of that heare,</l>
+                     <l>Or Rose, for pledge of Honours grace to weare,</l>
+                     <l>The gallant is, whom Fame shall eternize.</l>
+                     <l>For Honours gifts are glorious in all eyes.</l>
+                  </div>
+                  <div n="6" type="epigram">
+                     <head>
+                        <hi>EPIG. VI. Fides.</hi> In frontem.</head>
+                     <l>VPon that Christall table of delight</l>
+                     <l>The Iuorie front, Faith seemes in open sight</l>
+                     <l>To sit in triumph with each heauenly grace,</l>
+                     <l>Nere maskt, or hid beneath an other face:</l>
+                     <l>And as the louely fronts rare formed feature</l>
+                     <l>Most beautifies that angel-like faire creature:</l>
+                     <l>So constant Faith more graces same-grac'd Honour,</l>
+                     <l>Then all the graces heauen bestowes vpon her.</l>
+                  </div>
+                  <div n="7" type="epigram">
+                     <pb facs="tcp:177743:35"/>
+                     <head>
+                        <hi>EPIG. VII. Spes.</hi> In oculos.</head>
+                     <l>THe two star-twinckling twins, those lampes of light</l>
+                     <l>The bodies sentinels, so quick of sight</l>
+                     <l>Beneath her Christal brow, hopes wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dowes are,</l>
+                     <l>Out of the which when danger and despa<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</l>
+                     <l>Doe threaten mischiefe, hope lookes vp at heauen,</l>
+                     <l>From whence for her deare sake all power is giuen,</l>
+                     <l>When sad dispaire doth fill the heart with feares</l>
+                     <l>In Honours eye, Hope most of all appeares;</l>
+                  </div>
+                  <div n="8" type="epigram">
+                     <head>
+                        <hi>EPIG. VIII. Charitas.</hi> In Buccas.</head>
+                     <l>VPon the cheekes, on which, as on a bed,</l>
+                     <l>Of snow-white <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>illies Roses haue beene shed,</l>
+                     <l>Sits, Charitie and with the sweet delight</l>
+                     <l>Of cheareful lookes, that feed the gazers sight,</l>
+                     <l>Where milke commixt with wine doth seeme to flow,</l>
+                     <l>Her bounteous gifts doth chearefully bestow;</l>
+                     <l>Not dead but liuing Charitie, that giues</l>
+                     <l>With chearful count'nance honour'd euer liues.</l>
+                  </div>
+                  <div n="9" type="epigram">
+                     <pb facs="tcp:177743:35"/>
+                     <head>
+                        <hi>EPIG. IX. Prudentia.</hi> In labra.</head>
+                     <l>THe red-soft-s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lken lips, those leaues of Rose,</l>
+                     <l>Are the two doores of Corrall, that inclose</l>
+                     <l>The closet vp, where prudence day and night</l>
+                     <l>Doth worke vpon the honie of delight,</l>
+                     <l>The which the Muses thither bring with paine,</l>
+                     <l>And after poores it through those lips againe,</l>
+                     <l>For Prudence selfe, her selfe doth honour'd proue,</l>
+                     <l>When as those lips be stil, or else doe moue.</l>
+                  </div>
+                  <div n="10" type="epigram">
+                     <head>
+                        <hi>EPIG. X. Iustitia.</hi> In dentes.</head>
+                     <l>THe teeth, those two euen rankes of pearle do seeme</l>
+                     <l>To be the place, which Iustice doth esteeme,</l>
+                     <l>Who querne-like grinding not for their owne food,</l>
+                     <l>So much as for the bodies common good,</l>
+                     <l>Doe daily worke and though they daily weare,</l>
+                     <l>Yet in the publike cause doe not forbeare,</l>
+                     <l>True iustice heere on earth most Honour gaines,</l>
+                     <l>When most for common good it suffers paines.</l>
+                  </div>
+                  <div n="11" type="epigram">
+                     <pb facs="tcp:177743:36"/>
+                     <head>
+                        <hi>EPIG. XI. Fortitudo.</hi> In collum.</head>
+                     <l>THe neck, more white then snow on mountaine tops,</l>
+                     <l>As Fortitudes faire columne vnderprops</l>
+                     <l>Her Globe-like head; which though but smal in sight,</l>
+                     <l>With Maiestie still stately stands vpright;</l>
+                     <l>If it doe bow, 'tis but to grace the frame</l>
+                     <l>Which it supports: it neuer failes the same.</l>
+                     <l>Honour true Fortitude then most esteemes,</l>
+                     <l>When Fortitude is more, then what it seemes.</l>
+                  </div>
+                  <div n="12" type="epigram">
+                     <head>
+                        <hi>EPIG. XII. Temperantia.</hi> In mamillas.</head>
+                     <l>THose twin-like pretie buds of crimson Rose,</l>
+                     <l>The daintie pappes, you may compare to those</l>
+                     <l>Two springs of Temperance; which a little sweld,</l>
+                     <l>The milke of goodnesse moderately doe yeild</l>
+                     <l>To nurse the vertues: powring out no more</l>
+                     <l>Then will suffice, yet euer yeilding store.</l>
+                     <l>This part of Honour Temperance doth chuse:</l>
+                     <l>Amidst her store the golden meane to vse.</l>
+                  </div>
+                  <div n="13" type="epigram">
+                     <pb facs="tcp:177743:36"/>
+                     <head>
+                        <hi>EPIG. XIII. Castitas.</hi> In Pectus.</head>
+                     <l>THe snow-white brest where vertue keeps the treasure</l>
+                     <l>Of golden thoughts, the garden is of pleasure,</l>
+                     <l>In which the flower of Chastitie doth sprout;</l>
+                     <l>Whose spreading leaues Honour laps vp from doubt</l>
+                     <l>Of bitter blasts, and keepes them curiously</l>
+                     <l>From scorching of the Sunnes loue-burning eye.</l>
+                     <l>Pure Chastities faire flower which doth grow</l>
+                     <l>In Honours bosome, makes the goodliest show.</l>
+                  </div>
+                  <div n="14" type="epigram">
+                     <head>
+                        <hi>EPIG. XIIII. Pudicitia.</hi> In gremium.</head>
+                     <l>THe red-cheekt daughter of the blushing morne,</l>
+                     <l>Sweet modestie, of all the World forlorne,</l>
+                     <l>On Honours lap nurst vp in safetie lies,</l>
+                     <l>With vnknowne graces; hid from sight of spies:</l>
+                     <l>I thinke, except in Honours selfe alone,</l>
+                     <l>Modestie's more imagined then knowne.</l>
+                  </div>
+                  <div n="15" type="epigram">
+                     <pb facs="tcp:177743:37"/>
+                     <head>
+                        <hi>EPIG. XV. Concordia.</hi> In Manus.</head>
+                     <l>THose Lille hands, when they with curious cunning</l>
+                     <l>Doe touch the Lute or Viol with swift running,</l>
+                     <l>Concord so sweetly, that to heare such sounds,</l>
+                     <l>Windes would be stil and Seas would keep their bounds:</l>
+                     <l>And those fiue Champion brethren, that doe stand</l>
+                     <l>As arm'd with Iuorie helmes on either hand,</l>
+                     <l>To guard the bodie safe doe all agree,</l>
+                     <l>When any harmes by foes intended be.</l>
+                     <l>Concord in peace, a Musick is therefore;</l>
+                     <l>In war a safetie honour'd euermore.</l>
+                  </div>
+                  <div n="16" type="epigram">
+                     <head>
+                        <hi>EPIG. XVI. Patientia.</hi> In Crura.</head>
+                     <l>PAtience of all the vertues and the Arts</l>
+                     <l>Is the maine prop. And as those daintie parts</l>
+                     <l>The neat-proportioned pillers, that doe beare</l>
+                     <l>The bodie with quick motions heere and there,</l>
+                     <l>For comely shape, are the most gracefull limmes:</l>
+                     <l>So gentle patience all the vertues dimmes.</l>
+                     <l>Cheife glorie by true patience Honour gaines:</l>
+                     <l>Patience alone the vertues all sustaines.</l>
+                  </div>
+                  <div n="17" type="epigram">
+                     <pb facs="tcp:177743:37"/>
+                     <head>
+                        <hi>EPIG. XVII. Humilitas.</hi> In Pedes.</head>
+                     <l>LOw at the feet Humilitie doth rest;</l>
+                     <l>Yet is a vertue equall to the best.</l>
+                     <l>As the feetes feature, those two pretie bases,</l>
+                     <l>That glorious creature woman no lesse graces,</l>
+                     <l>Then any part of all that goodly frame,</l>
+                     <l>Nor lesse doth please the eye that sees the same:</l>
+                     <l>So her Humilitie, which heere I place,</l>
+                     <l>Lowest of all with heauen's in highest grace.</l>
+                  </div>
+                  <div n="18" type="epigram">
+                     <head>EPIG. XVIII.</head>
+                     <l>HE that shall aske, what reason I can shew</l>
+                     <l>Why vertue should be Foeminine, may know,</l>
+                     <l>The faire <hi>Pandora,</hi> vnto whom was giuen</l>
+                     <l>Each seu<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>all vertue by the Gods of heauen,</l>
+                     <l>A woman was: who askes, what H<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nour is,</l>
+                     <l>An Angel vpon earth and not amisse</l>
+                     <l>Let him suppose; else Honour let him take,</l>
+                     <l>For that <hi>Pandora,</hi> which the Gods did make.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:38"/>
+                  <head>TO THE VERTVOVS AND NO<g ref="char:EOLhyphen"/>BLE LADY, THE LADY CHARITIE HO<g ref="char:EOLhyphen"/>VVARD, wife to the nobly-descended Sir <hi>Charles Howard</hi> Knight, second Sonne to the right <hi>Honourable the Earle of</hi> No<g ref="char:EOLhyphen"/>tingham, &amp;c. VERTVES ENCOMIVM.</head>
+                  <div n="19" type="epigram">
+                     <head>EPIG. XIX.</head>
+                     <l>GOod, gracious, vertuous, all I can picke forth,</l>
+                     <l>Are needlesse attributes t'explaine your worth.</l>
+                     <l>For (Nole Ladie) your owne proper name</l>
+                     <l>Vniuocally doth expresse the same.</l>
+                     <l>Deigne then, that I your <hi>Charitie</hi> may place</l>
+                     <l>Among'st these few of vertues honour'd race:</l>
+                     <l>And though I heere, vnfitly in rude rimes,</l>
+                     <l>Present to you the labour of lost times;</l>
+                     <l>Yet at the least these children looke vpon,</l>
+                     <l>The naked Graces, sure they be your own.</l>
+                     <l>This, Ladie, please to know, that they be three,</l>
+                     <l>And of true <hi>Charitie</hi> the children be.</l>
+                  </div>
+                  <div n="20" type="epigram">
+                     <pb facs="tcp:177743:38"/>
+                     <head>
+                        <hi>EPIG. XX.</hi> In Aglaiam.</head>
+                     <l>AS faire <hi>Aglaia</hi> is the first in birth,</l>
+                     <l>So is she first in bountie; and from mirth</l>
+                     <l>Or true delight deriues her name: which shewes,</l>
+                     <l>That what she giues, she chearefully bestowes.</l>
+                     <l>Naked she is, that we by her may see</l>
+                     <l>True benefits without imposture bee:</l>
+                     <l>Bathing in th' <hi>Acidalian</hi> spring she sayes,</l>
+                     <l>Who giues, must giue for no reward or praise.</l>
+                     <l>Who these three properties conceiues, must yeild</l>
+                     <l>
+                        <hi>Aglaia</hi> be Charities own child.</l>
+                  </div>
+                  <div n="21" type="epigram">
+                     <head>
+                        <hi>EPIG. XXI.</hi> In Thaliam.</head>
+                     <l>
+                        <hi>THalia</hi> is the next, a noble Grace,</l>
+                     <l>Belou'd of God and man, and takes her place</l>
+                     <l>At Bounties shrine there offering thankes and prayse.</l>
+                     <l>For h<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ting grosse ingratitude, she sayes,</l>
+                     <l>From euer-flourishing, I take my name,</l>
+                     <l>That gifts in mind receiu'd, may, as the same,</l>
+                     <l>Be euer greene; for vnto Charitie</l>
+                     <l>Ingratitude is cheifest enimie.</l>
+                     <l>Therefore this name <hi>Thalia</hi> she did giue,</l>
+                     <l>The second Grace, that grace might euer liue.</l>
+                  </div>
+                  <div n="22" type="epigram">
+                     <pb facs="tcp:177743:39"/>
+                     <head>
+                        <hi>EPIG. XXII.</hi> In Euphrosynem.</head>
+                     <l>
+                        <hi>EVphrosyne</hi> is, though the last of three,</l>
+                     <l>A Grace not least belou'd of Charitie,</l>
+                     <l>She's her delight, <hi>Euphrosyne</hi> therefore</l>
+                     <l>Shee calles her name: and as the first before</l>
+                     <l>Giues chearfully, the second thankfu<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l takes,</l>
+                     <l>This third a double restitution makes.</l>
+                     <l>Since then these three true Charitie explaine,</l>
+                     <l>To giue, to take, and to restore againe;</l>
+                     <l>The Graces t'all from Charitie say this,</l>
+                     <l>Giue, take, restore, and neuer doe amisse.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:39"/>
+                  <head>To the Patterne of Vertue and Paragon of Beautie, the Ladie <hi>Margaret Smith, wife to the right Worshipfull Sir</hi> RI<g ref="char:EOLhyphen"/>CHARD SMITH.</head>
+                  <div n="23" type="epigram">
+                     <head>EPIG. XXIII.</head>
+                     <l>SInce Beauties faire strikes blind the eyes of those,</l>
+                     <l>That vnto beautie are but seeming foes:</l>
+                     <l>Since Vertue doth conuince them being blind,</l>
+                     <l>That are but seeming foes to women kind:</l>
+                     <l>(Mirrour of beautie and of vertue both,)</l>
+                     <l>My humble Muse vnknowne, and therefore loth</l>
+                     <l>T' attempt your name, yet knowing well your worth,</l>
+                     <l>Meekly craues leave, that she may portrait forth</l>
+                     <l>Your beautie and your vertue; not to flatter,</l>
+                     <l>But to oppose't against our woman hater.</l>
+                     <l>For not so much your owne worth, as in you</l>
+                     <l>The worth of women, I present to veiw:</l>
+                     <l>In whose defence your name shall stand in sight,</l>
+                     <l>Like Beauties pearle or Vertues <hi>Margarite.</hi>
+                     </l>
+                     <l>Which to behold, please to reflect your eye</l>
+                     <l>Vpon these three, <hi>Vnus, Vnam, Vni.</hi>
+                     </l>
+                  </div>
+                  <div n="24" type="epigram">
+                     <pb facs="tcp:177743:40"/>
+                     <head>
+                        <hi>EPIG. XXIIII.</hi> Vnus.</head>
+                     <l>ONe more then excellent, we know, did make</l>
+                     <l>One woman excellent, whom we may take</l>
+                     <l>To be the <hi>Margarite;</hi> and gaue that woman</l>
+                     <l>The same which with the <hi>Margarite</hi> is common:</l>
+                     <l>Beautie he gaue to her. The <hi>Margarite:</hi>
+                     </l>
+                     <l>Excels all other things, for Christall bright:</l>
+                     <l>He gaue the woman vertue to sustaine</l>
+                     <l>That Beautie giuen. Such vertue doth remaine</l>
+                     <l>In this faire pearle or <hi>Margarite,</hi> that none</l>
+                     <l>'Mongst gems most precious of more w<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rth is knowne.</l>
+                     <l>For which 'gainst enuie, in all womens right,</l>
+                     <l>We may present the precious <hi>Margarite.</hi>
+                     </l>
+                  </div>
+                  <div n="25" type="epigram">
+                     <head>
+                        <hi>EPIG. XXV.</hi> Vnam.</head>
+                     <l>ONe woman made was giu'n to one man,</l>
+                     <l>Which in the <hi>Margarite</hi> wise nature can,</l>
+                     <l>And doth expresse. The woman men doe honour,</l>
+                     <l>For those chast thoughts which doe attend vpon her</l>
+                     <l>Affecting only one. The <hi>Margarite</hi>
+                     </l>
+                     <l>Doth neuer prosper being indiscrete,</l>
+                     <l>Or separated by it selfe alone:</l>
+                     <l>Which caus'd the Romans call it Vnion.</l>
+                     <l>For which 'gainst enuie heere in womans right,</l>
+                     <l>We may present the precious <hi>Margarite.</hi>
+                     </l>
+                  </div>
+                  <div n="26" type="epigram">
+                     <pb facs="tcp:177743:40"/>
+                     <head>
+                        <hi>EPIG. XXVI.</hi> Vni.</head>
+                     <l>TO one alone one woman thus was giuen,</l>
+                     <l>That man might take it, as a gift from heauen:</l>
+                     <l>And keep it euer with such care and loue,</l>
+                     <l>That from it nothing should his heart remoue.</l>
+                     <l>The precious <hi>Margarite</hi> all men doe couet,</l>
+                     <l>And hauing gain'd it, doe so dearely loue it,</l>
+                     <l>No Coffer, Cabinet, can be so strong,</l>
+                     <l>As they doe thinke to keepe it safe from wrong,</l>
+                     <l>With men therefore let women haue this right,</l>
+                     <l>That euery one may be a <hi>Margarite.</hi>
+                     </l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:41"/>
+                  <head>TO THE MIRROR OF TRVE <hi>Constancie, the Ladie</hi> Elizabeth Cleere <hi>wise to the</hi> Noble Gentleman deceased Sir FRANCIS CLERE Knight.</head>
+                  <div n="27" type="epigram">
+                     <head>EPIG. XXVII.</head>
+                     <l>TRue perfect image of that ancient worth</l>
+                     <l>Deriu'd from parents at your happie birth</l>
+                     <l>Yet grac'd in mind with heauens more faire perfection:</l>
+                     <l>Grant that my Muse, who vnder your protection</l>
+                     <l>Englands <hi>Eliza</hi> once did safely sing,</l>
+                     <l>May in the ranke of honor'd women bring</l>
+                     <l>Your worthie selfe, that of your Vertues <hi>Cleare</hi>
+                     </l>
+                     <l>To women-hating want-wits may appeare.</l>
+                     <l>So, noble Ladie, shall my Muse goe free</l>
+                     <l>From enuies touch: for men in you shall see</l>
+                     <l>What some men say is wanting in your kind,</l>
+                     <l>In your faire <hi>Clere</hi> such worth shall all men find,</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:41"/>
+                  <head>In obitum benignissimi omnique gratiarum genere cumulatissimi viri <hi>Francisci Clere</hi> Mi<g ref="char:EOLhyphen"/>litis, &amp;c.</head>
+                  <div n="28" type="epigram">
+                     <head>EPIG. XXVIII.</head>
+                     <l>IF't be a vertue, speaking vertues prayse,</l>
+                     <l>The sleeping vertues of the dead to raise,</l>
+                     <l>(Vertues dead liuing mirror) leaue I craue</l>
+                     <l>To ope the entrance to thy honor'd graue.</l>
+                     <l>
+                        <hi>Cleros</hi> his name was giuen at his birth;</l>
+                     <l>For liuing, he was vertues heire on earth.</l>
+                     <l>
+                        <hi>Cleros</hi> his name to him still dead is giuen;</l>
+                     <l>For heere though dead, he liues an heire in Heauen.</l>
+                     <l>On earth his vertue's cleere from enuies blame:</l>
+                     <l>In heauen he shines a starre <hi>Clere</hi> as his name.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:42"/>
+                  <head>TO THE VERTVOVS AND MY <hi>euer honoured Ladie, the Ladie</hi> Margaret Wroth, wife to the right Worshipfall Sir <hi>Thomas Wroth,</hi> Knight.</head>
+                  <div n="29" type="epigram">
+                     <head>EPIG. XXIX.</head>
+                     <l>VVIts second vnto none, worthes excellence)</l>
+                     <l>My pen oblig'd by that due reuerence</l>
+                     <l>Iewe to you, craues leaue by you to show.</l>
+                     <l>What honour to your sex all men doe owe</l>
+                     <l>The sparkling gem, whose worth all men esteeme,</l>
+                     <l>The precious Pearle, which all men rich doe deome,</l>
+                     <l>The dazie which men call the dayes delight,</l>
+                     <l>All three the Romans title <hi>Margarite.</hi>
+                     </l>
+                     <l>Much worth is in the gem, that beares that name,</l>
+                     <l>More worth in you that double beare the same:</l>
+                     <l>Rich is that pearle; but Rich is more your due:</l>
+                     <l>Faire is that flowre, but farre more faire are you:</l>
+                     <l>This may susfice, who seekes, in you shall find,</l>
+                     <l>All faire, Rich, Worth, in bodie name and mind.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:42"/>
+                  <head>In obitum nobilissimi benignissi<g ref="char:EOLhyphen"/>mique viri nuper defuncti ROBERTI WROTH Militis, &amp;c.</head>
+                  <div n="30" type="epigram">
+                     <head>EPIG. XXX.</head>
+                     <l>VVOrthes chiefe is dead, since worthie he is gone,</l>
+                     <l>Who of that name most worthie was alone;</l>
+                     <l>(Yee poore and hungrie all) his graue goe find,</l>
+                     <l>That holds the bodie of so faire a mind.</l>
+                     <l>There sit yee downe and sigh for bountie dead:</l>
+                     <l>Bountie with that braue Knight to Heauen is fled:</l>
+                     <l>Where since he came, heauen as it doth appeare,</l>
+                     <l>Wanting a starre to set by bounteous Clere;</l>
+                     <l>In <hi>Wroth</hi> did place the O before the R,</l>
+                     <l>And made it Worth, which since is made a star.</l>
+                  </div>
+               </div>
+               <div type="text">
+                  <pb facs="tcp:177743:43"/>
+                  <head>To all vertuous Ladies and Gentlewomen.</head>
+                  <div n="31" type="epigram">
+                     <head>EPIG. XXXI.</head>
+                     <l>EArthes fairest figures of the Saints in Heauen,</l>
+                     <l>T' whose angel-like rare beauties powre is giuen,</l>
+                     <l>Their healthes to dying men for to restore,</l>
+                     <l>And strike them dead, that had their healthes before:</l>
+                     <l>Giue life vnto these lines, with gracious view,</l>
+                     <l>Where though your Honours prayses want their due;</l>
+                     <l>Yet Honours image your ensample be,</l>
+                     <l>And euermore be honoured of me.</l>
+                     <l>My Muse for vertue women shall adore:</l>
+                     <l>A modest Epigram can say no more.</l>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:177743:43"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
